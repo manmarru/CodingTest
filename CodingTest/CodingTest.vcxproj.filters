@@ -26,7 +26,7 @@
       <Filter>Main</Filter>
     </ClCompile>
     <ClCompile Include="2231.cpp">
-      <Filter>Solving</Filter>
+      <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -38,11 +38,11 @@
     <ClInclude Include="pch.h">
       <Filter>Defines</Filter>
     </ClInclude>
-    <ClInclude Include="2231.h">
-      <Filter>Solving</Filter>
-    </ClInclude>
     <ClInclude Include="Define.h">
       <Filter>Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="2231.h">
+      <Filter>Solved</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
