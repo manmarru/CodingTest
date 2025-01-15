@@ -5,26 +5,44 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="Default">
-      <UniqueIdentifier>{09467881-068d-47f7-979a-2c69e4e4f66c}</UniqueIdentifier>
+    <Filter Include="Defines">
+      <UniqueIdentifier>{984f4ce3-ae95-408e-8451-eac0e41bbf0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{ef5e09a9-ef92-4312-bd87-1b2604eba98b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved">
+      <UniqueIdentifier>{dd8413f5-60a7-40af-8aad-45544492ea79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solving">
+      <UniqueIdentifier>{9ff094d1-ddfd-4c96-af57-e4a062cb97d5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodingTest.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="pch.cpp">
-      <Filter>Default</Filter>
+      <Filter>Defines</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="pch.h">
-      <Filter>Default</Filter>
-    </ClInclude>
+    <ClCompile Include="CodingTest.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="2231.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\Data\Input.txt">
       <Filter>소스 파일</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="2231.h">
+      <Filter>Solving</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>Defines</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
