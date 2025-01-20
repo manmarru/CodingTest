@@ -25,8 +25,11 @@
     <ClCompile Include="CodingTest.cpp">
       <Filter>Main</Filter>
     </ClCompile>
-    <ClCompile Include="2231.cpp">
+    <ClCompile Include="28702.cpp">
       <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="2231.cpp">
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -41,8 +44,11 @@
     <ClInclude Include="Define.h">
       <Filter>Defines</Filter>
     </ClInclude>
-    <ClInclude Include="2231.h">
+    <ClInclude Include="28702.h">
       <Filter>Solved</Filter>
+    </ClInclude>
+    <ClInclude Include="2231.h">
+      <Filter>Solving</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

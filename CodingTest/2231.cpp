@@ -1,48 +1,61 @@
 #include "pch.h"
 #include "2231.h"
+#include <limits>
 
 void Solve(ifstream* pLoadStream)
 {
-	string test[3];
-	int lastnum(0);
+	//n의 가장 작은 생성자 구하기
+
+	//각 자리 숫자를 다 더해서 만들 수 있는 숫자는 9, 99, 999, ...
+	//따라서 체크해야 하는 숫자 갯수는 9, 18, 27, ...
+	int answer = INT_MAX;
 
 
-	(*pLoadStream) >> test[0] >> test[1] >> test[2];
+	string strInput;
+	(*pLoadStream) >> strInput;
 
-	//주어진 숫자 세개가 다 FizzBuzz 형태인건 불가능하고, 무조건 숫자가 하나 들어옴
-	for (size_t i = 0; i < 3; i++)
+	int iTarget = stoi(strInput);
+	int iDigits = strInput.size();
+
+	if (iDigits == 1) // 한자리 숫자
 	{
-		//isDigi
-		if (test[i].front() != 'F' && test[i].front() != 'B')
+		if (iTarget % 2 == 0)
+			cout << iTarget / 2 << endl;
+		else
+			cout << 0 << endl;
+		return;
+	}
+
+	int iChecking = (iDigits - 1) * 9;
+
+	string singlenum;
+	int iSum(0);	// 계산결과
+	int iCurrentNum(0); // 분해하고있는 숫자
+	int iCurrentNumCopy(0);
+	for (int i = 1; i < iTarget - 1; i++)
+	{
+		iSum = 0;
+		iCurrentNumCopy = iCurrentNum = i;
+		iSum += iCurrentNum;
+		//각 자릿수 더하기
+		while (iCurrentNumCopy >= 1)
 		{
-			lastnum = stoi(test[i]) + 3 - i;
-			Printing(lastnum);
-			return;
+			iSum += iCurrentNumCopy % 10;
+			iCurrentNumCopy /= 10;
 		}
-	}	
 
-
-	Printing(lastnum);
-
-}
-
-void Printing(int iLastNum)
-{
-	/*
-* 3의 배수이면서 5의 배수이면 FizzBuzz를 출력
-* 3의 배수이지만 5의 배수가 아니면 Fizz 출력
-* 3의 배수가 아니지만 5의 배수이면 Buzz 출력
-* 둘 다 아니면 i 그대로 출력
-*/
-	bool multy3 = (iLastNum % 3) == 0;
-	bool multy5 = (iLastNum % 5) == 0;
-
-	if (multy3 && multy5) // 그냥 15로 나누면 되는거긴 하네
-		cout << "FizzBuzz" << endl;
-	else if (multy3)
-		cout << "Fizz" << endl;
-	else if (multy5)
-		cout << "Buzz" << endl;
+		if (iTarget == iSum)
+		{
+			if (answer > iCurrentNum)
+				answer = iCurrentNum;
+		}
+	}
+	
+	
+	if (INT_MAX == answer)
+		cout << 0 << endl;
 	else
-		cout << iLastNum << endl;
+		cout << answer << endl;
+	
+	//198이 나온다 1 + 9 + 8 + 198
 }
