@@ -35,6 +35,9 @@
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\30802.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2798.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
@@ -60,6 +63,9 @@
       <Filter>Solved</Filter>
     </ClInclude>
     <ClInclude Include="Q\30802.h">
+      <Filter>Solved</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\2798.h">
       <Filter>Solving</Filter>
     </ClInclude>
   </ItemGroup>
