@@ -25,13 +25,16 @@
     <ClCompile Include="CodingTest.cpp">
       <Filter>Main</Filter>
     </ClCompile>
-    <ClCompile Include="28702.cpp">
+    <ClCompile Include="Q\2231.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="2231.cpp">
+    <ClCompile Include="Q\4153.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="4153.cpp">
+    <ClCompile Include="Q\28702.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\30802.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
@@ -47,13 +50,16 @@
     <ClInclude Include="Define.h">
       <Filter>Defines</Filter>
     </ClInclude>
-    <ClInclude Include="28702.h">
+    <ClInclude Include="Q\2231.h">
       <Filter>Solved</Filter>
     </ClInclude>
-    <ClInclude Include="2231.h">
+    <ClInclude Include="Q\4153.h">
       <Filter>Solved</Filter>
     </ClInclude>
-    <ClInclude Include="4153.h">
+    <ClInclude Include="Q\28702.h">
+      <Filter>Solved</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\30802.h">
       <Filter>Solving</Filter>
     </ClInclude>
   </ItemGroup>
