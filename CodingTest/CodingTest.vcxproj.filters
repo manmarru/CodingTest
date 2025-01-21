@@ -46,6 +46,9 @@
     <ClCompile Include="Q\2609.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
+    <ClCompile Include="Q\1181.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\Data\Input.txt">
@@ -79,6 +82,9 @@
     </ClInclude>
     <ClInclude Include="Q\2609.h">
       <Filter>Solved</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\1181.h">
+      <Filter>Solving</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
