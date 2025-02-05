@@ -1,33 +1,3 @@
-13
-but
-no
-i
-i
-wont
-hesitate
-no
-i
-more
-no
-no
-no
-more
-it
-cannot
-wait
-im
-yours
-no
+5 2
 
-´ä
-i
-im
-it
-no
-but
-more
-wait
-wont
-yours
-cannot
-hesitate
+´ä 10
