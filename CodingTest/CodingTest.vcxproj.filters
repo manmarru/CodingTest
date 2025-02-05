@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="소스 파일">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
     <Filter Include="Defines">
       <UniqueIdentifier>{984f4ce3-ae95-408e-8451-eac0e41bbf0f}</UniqueIdentifier>
     </Filter>
@@ -52,14 +48,12 @@
     <ClCompile Include="Q\1436.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="11050.cpp">
+    <ClCompile Include="Q\15829.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\Data\Input.txt">
-      <Filter>소스 파일</Filter>
-    </Text>
+    <ClCompile Include="Q\11050.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
@@ -95,8 +89,16 @@
     <ClInclude Include="Q\1436.h">
       <Filter>Solving</Filter>
     </ClInclude>
-    <ClInclude Include="11050.h">
+    <ClInclude Include="Q\15829.h">
       <Filter>Solving</Filter>
     </ClInclude>
+    <ClInclude Include="Q\11050.h">
+      <Filter>Solved</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\Data\Input.txt">
+      <Filter>Main</Filter>
+    </Text>
   </ItemGroup>
 </Project>
