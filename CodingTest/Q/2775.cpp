@@ -9,7 +9,7 @@ void Solve(ifstream* pLoadStream)
 		0층의 n호에는 n명이 산다.
 		첫 입력에 케이스 수, 그다음부터 k, n 순서로 입력
 
-		나중에 점화식으로 푸는 방법을 생각 해 볼 것
+		나중에 점화식으로 푸는 방법을 생각해 볼 것
 	*/
 	int iInput(0);
 	int iFloor(0), iDoor(0);

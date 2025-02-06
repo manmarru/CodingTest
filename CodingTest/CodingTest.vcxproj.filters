@@ -13,6 +13,9 @@
     <Filter Include="Solving">
       <UniqueIdentifier>{9ff094d1-ddfd-4c96-af57-e4a062cb97d5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Later">
+      <UniqueIdentifier>{187a09f9-1138-4131-a307-017c4fc4ec44}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -45,17 +48,20 @@
     <ClCompile Include="Q\1181.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1436.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\11050.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2775.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\15829.cpp">
       <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\10989.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2775.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1436.cpp">
+      <Filter>Later</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -89,17 +95,20 @@
     <ClInclude Include="Q\1181.h">
       <Filter>Solved</Filter>
     </ClInclude>
-    <ClInclude Include="Q\1436.h">
-      <Filter>Solving</Filter>
-    </ClInclude>
     <ClInclude Include="Q\11050.h">
       <Filter>Solved</Filter>
     </ClInclude>
-    <ClInclude Include="Q\2775.h">
-      <Filter>Solving</Filter>
-    </ClInclude>
     <ClInclude Include="Q\15829.h">
       <Filter>Solved</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\10989.h">
+      <Filter>Solving</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\2775.h">
+      <Filter>Solved</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\1436.h">
+      <Filter>Later</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
