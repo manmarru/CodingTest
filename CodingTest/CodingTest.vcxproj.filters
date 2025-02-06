@@ -54,14 +54,17 @@
     <ClCompile Include="Q\15829.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\10989.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2775.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\1436.cpp">
       <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1676.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\10989.cpp">
+      <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -101,14 +104,17 @@
     <ClInclude Include="Q\15829.h">
       <Filter>Solved</Filter>
     </ClInclude>
-    <ClInclude Include="Q\10989.h">
-      <Filter>Solving</Filter>
-    </ClInclude>
     <ClInclude Include="Q\2775.h">
       <Filter>Solved</Filter>
     </ClInclude>
     <ClInclude Include="Q\1436.h">
       <Filter>Later</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\1676.h">
+      <Filter>Solving</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\10989.h">
+      <Filter>Solved</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
