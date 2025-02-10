@@ -1,9 +1,13 @@
-5
-55 185
-58 183
-88 186
-60 175
-46 155
+3
+21 Junkyu
+21 Dohyun
+20 Sunyoung
+
+
+
+
 
 ´ä
-2 2 1 2 5
+20 Sunyoung
+21 Junkyu
+21 Dohyun
