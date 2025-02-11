@@ -69,10 +69,13 @@
     <ClCompile Include="Q\2751.cpp">
       <Filter>Later</Filter>
     </ClCompile>
-    <ClCompile Include="Q\10814.cpp">
+    <ClCompile Include="Q\7568.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\11650.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\7568.cpp">
+    <ClCompile Include="Q\10814.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
@@ -128,10 +131,13 @@
     <ClInclude Include="Q\2751.h">
       <Filter>Later</Filter>
     </ClInclude>
-    <ClInclude Include="Q\10814.h">
+    <ClInclude Include="Q\7568.h">
+      <Filter>Solved</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\11650.h">
       <Filter>Solving</Filter>
     </ClInclude>
-    <ClInclude Include="Q\7568.h">
+    <ClInclude Include="Q\10814.h">
       <Filter>Solved</Filter>
     </ClInclude>
   </ItemGroup>

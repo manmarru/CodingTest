@@ -1,13 +1,15 @@
-3
-21 Junkyu
-21 Dohyun
-20 Sunyoung
-
-
+5
+3 4
+1 1
+1 -1
+2 2
+3 3
 
 
 
 ´ä
-20 Sunyoung
-21 Junkyu
-21 Dohyun
+1 -1
+1 1
+2 2
+3 3
+3 4
