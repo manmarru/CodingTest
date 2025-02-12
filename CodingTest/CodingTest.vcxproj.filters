@@ -75,10 +75,13 @@
     <ClCompile Include="Q\10814.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\11651.cpp">
+    <ClCompile Include="Q\11650.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1018.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\11650.cpp">
+    <ClCompile Include="Q\11651.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
@@ -140,10 +143,13 @@
     <ClInclude Include="Q\10814.h">
       <Filter>Solved</Filter>
     </ClInclude>
-    <ClInclude Include="Q\11651.h">
+    <ClInclude Include="Q\11650.h">
+      <Filter>Solved</Filter>
+    </ClInclude>
+    <ClInclude Include="Q\1018.h">
       <Filter>Solving</Filter>
     </ClInclude>
-    <ClInclude Include="Q\11650.h">
+    <ClInclude Include="Q\11651.h">
       <Filter>Solved</Filter>
     </ClInclude>
   </ItemGroup>
