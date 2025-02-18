@@ -94,6 +94,9 @@
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\4949.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\9012.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
