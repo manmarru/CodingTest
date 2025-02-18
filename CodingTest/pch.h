@@ -1,8 +1,6 @@
 ﻿#ifndef PCH_H
 #define PCH_H
-#define 입출력최적화	ios::sync_with_stdio(false); \
-cin.tie(nullptr);\
-cout.tie(NULL);
+
 
 
 #include "Define.h"
