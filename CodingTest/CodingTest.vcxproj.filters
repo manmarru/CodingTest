@@ -85,6 +85,9 @@
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\1920.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2164.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
@@ -95,68 +98,8 @@
     <ClInclude Include="Define.h">
       <Filter>Defines</Filter>
     </ClInclude>
-    <ClInclude Include="Q\2231.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\4153.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\28702.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\30802.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\2798.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\1259.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\2609.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\1181.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\11050.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\15829.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\2775.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\1436.h">
-      <Filter>Later</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\10989.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\1676.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\2751.h">
-      <Filter>Later</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\7568.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\10814.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\11650.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\11651.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\1018.h">
-      <Filter>Solved</Filter>
-    </ClInclude>
-    <ClInclude Include="Q\1920.h">
-      <Filter>Solving</Filter>
+    <ClInclude Include="Q\Header.h">
+      <Filter>Main</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

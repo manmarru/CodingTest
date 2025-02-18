@@ -1,6 +1,6 @@
 #pragma once
 #include "pch.h"
-#include "1676.h"
+#include "Header.h"
 
 void Solve(ifstream* pLoadStream)
 {

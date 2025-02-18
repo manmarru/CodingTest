@@ -1,6 +1,6 @@
 ﻿#pragma once
 #include "pch.h"
-#include "1920.h"
+#include "Header.h"
 
 int main()
 {
