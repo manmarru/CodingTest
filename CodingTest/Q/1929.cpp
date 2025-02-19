@@ -1,41 +1,38 @@
 #include "pch.h"
 #include "Header.h"
 #include <vector>
-#include <algorithm>
-#include <math.h>
 
 void Solve(ifstream* pLoadStream)
 {
 	/*
-	15% 절사평군(반올림값 사용)으로 난이도값 결정
-	표본이 없으면 난이도는 0
+	M 이상 N 이하의 소수들 구하기
 	*/
-	int iSize{};
-	int iInput{};
-	CIN >> iSize;
-	if (0 == iSize)
-	{
-		cout << 0;
-		return;
-	}
-	vector<int> vecNums;
-	for (int i = 0; i < iSize; i++)
-	{
-		CIN >> iInput;
-		vecNums.push_back(iInput);
-	}
-	sort(vecNums.begin(), vecNums.end());
 
-	int iCut = floor((float)vecNums.size() * 0.15f + 0.5f);
-	int avg{0};
-	for (int i = iCut; i < iSize - iCut; i++)
+	int iMin{}, iMax{};
+	vector<bool> vecPrimes;
+	CIN >> iMin >> iMax;
+
+	vecPrimes.resize(iMax + 1);
+	for (int i = 1; i < iMax + 1; ++i)
 	{
-		avg += vecNums[i];
+		vecPrimes[i] = true;
 	}
-	if (avg == 0)
+	
+	vecPrimes[1] = false;
+	for (int i = 2; i < iMax + 1; ++i)
 	{
-		cout << 0;
-		return;
+		if (vecPrimes[i])
+		{
+			for (int j = i * 2; j < iMax + 1; j += i)
+			{
+				vecPrimes[j] = false;
+			}
+		}
 	}
-	cout << floor((float)avg / (float)(vecNums.size() - (iCut * 2)) + 0.5f);
+
+	for (int i = iMin; i < iMax + 1; ++i)
+	{
+		if (vecPrimes[i])
+			cout << i << endl;
+	}
 }
