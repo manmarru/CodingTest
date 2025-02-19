@@ -4,6 +4,10 @@
 
 void Solve(ifstream* pLoadStream)
 {
+	/*
+	숫자를 입력받아서 입력값들의 합을 구함
+	0이 입력되면 최근 입력값 제거
+	*/
 	unsigned long long iResult{ 0 };
 	stack<int> stdNums;
 	int iSize{};
