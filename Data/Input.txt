@@ -1,30 +1,4 @@
-15
-push 1
-push 2
-front
-back
-size
-empty
-pop
-pop
-pop
-size
-empty
-pop
-push 3
-empty
-front
+7 3
 
 ´ä
-1
-2
-2
-0
-1
-2
--1
-0
-1
--1
-0
-3
+<3, 6, 2, 7, 5, 1, 4>
