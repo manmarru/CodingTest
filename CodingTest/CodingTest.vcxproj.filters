@@ -117,8 +117,11 @@
     <ClCompile Include="Q\18110.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1929.cpp">
+    <ClCompile Include="Q\1966.cpp">
       <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1929.cpp">
+      <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
