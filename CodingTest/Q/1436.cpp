@@ -1,5 +1,7 @@
 #include "pch.h"
 #include "Header.h"
+#include <list>
+#include <string>
 
 void Solve(ifstream* pLoadStream)
 {
@@ -7,49 +9,35 @@ void Solve(ifstream* pLoadStream)
 	666이 들어간 n번째로 작은 숫자 출력
 	브루트 포스
 	*/
-	int iInput(0);
-	(*pLoadStream) >> iInput;
-
-	string DevilNum;
-	vector<int> vecNumbers;
-	for (int i = 0; i < iInput; i++)
+	int iSize{};
+	string Temp;
+	string Src;
+	string szZero;
+	CIN >> iSize;
+	int iLength = (int)to_string(iSize).size();
+	list<int> listNums;
+//001같은것도 생각해야 된다. 자릿수 고정으로 하면 될듯
+	for (int i = 0; i < iSize; ++i)
 	{
-		vecNumbers.push_back(i);
+		Temp = to_string(i);
+		szZero = string(iLength - (int)Temp.size(), '0');
+
+		for (int j = 0; j <= iLength; ++j)
+		{
+			Src = szZero + Temp;
+			Src.insert(j, "666");
+			listNums.push_back(stoi(Src));
+		}
 	}
-	// 0자리부터 시작해서 6보다 큰 숫자면 666의 오른쪽에 두기
 
-	/*
-	1666
-	6666
-	6667
-	6669
-	7666
-	1666
-	2666
-	3666
-	4666
-	5666
-	6666
-	6667
-	6668
-	6669
-	10666
-	11666
-	12666
-	13666
-	14666
-	15666
-	16666
-	16667
-	16668
-	16669
-	20666
-	66699
+	listNums.sort();
+	listNums.unique();
 
-	n까지의 숫자를 나열하고 알맞게 666 붙이기
-	*/
+	list<int>::iterator iter = listNums.begin();
+	for (int i = 1; i < iSize; ++i)
+	{
+		++iter;
+	}
 
-
-
-
+	cout << *iter;
 }
