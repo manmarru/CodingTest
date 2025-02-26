@@ -8,6 +8,7 @@ void Solve(ifstream* pLoadStream)
 {
 	/*
 	무조건 1번 컴퓨터가 감염
+	하고 보니 너비우선탐색(bfs)을 구현하긴 했네
 	*/
 	int iSize{};
 	int iLink{};
