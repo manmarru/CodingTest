@@ -10,9 +10,9 @@ void Solve(ifstream* pLoadStream)
 	연속 3개 밟기금지 (시작점 제외
 	마지막은 반드시 밟아야 함
 
-	n번째 계단 = n-2 + n
+	n번째 계단 = DP(n - 2) + n
 	or
-	n - 3 + (n - 1번째 계단)
+	DP(n - 3) + n - 1 + n
 	*/
 
 	int iSize{};
@@ -40,7 +40,7 @@ void Solve(ifstream* pLoadStream)
 	}
 	else if (3 == iSize)
 	{
-		cout << vecScore[0] + vecScore[2];
+		cout << max(vecScore[1], vecScore[0]) + vecScore[2];
 		return;
 	}
 

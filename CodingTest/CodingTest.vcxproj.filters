@@ -153,10 +153,13 @@
     <ClCompile Include="Q\1003.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2579.cpp">
+    <ClCompile Include="Q\1463.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2606.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1463.cpp">
+    <ClCompile Include="Q\2579.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
