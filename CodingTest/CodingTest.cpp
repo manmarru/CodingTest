@@ -17,7 +17,7 @@ int main()
 	Solve(&LoadStream);
 
 	LoadStream.close();
-
+	
 
 
 

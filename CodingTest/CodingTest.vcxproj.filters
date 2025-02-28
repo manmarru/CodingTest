@@ -187,6 +187,9 @@
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\1012.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1260.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
