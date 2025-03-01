@@ -198,9 +198,6 @@
     <ClCompile Include="Q\1541.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2805.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Obj\MinHip.cpp">
       <Filter>Main\MinHip</Filter>
     </ClCompile>
@@ -209,6 +206,18 @@
     </ClCompile>
     <ClCompile Include="Q\2630.cpp">
       <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2805.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 - 복사본.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\11279.cpp">
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
