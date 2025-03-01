@@ -16,7 +16,7 @@
     <Filter Include="Later">
       <UniqueIdentifier>{187a09f9-1138-4131-a307-017c4fc4ec44}</UniqueIdentifier>
     </Filter>
-    <Filter Include="MinHip">
+    <Filter Include="Main\MinHip">
       <UniqueIdentifier>{23b0bdd7-f0e7-4435-838a-57c2b3f9efca}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -198,16 +198,16 @@
     <ClCompile Include="Q\1541.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2630.cpp">
+    <ClCompile Include="Q\2805.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Obj\MinHip.cpp">
-      <Filter>MinHip</Filter>
+      <Filter>Main\MinHip</Filter>
     </ClCompile>
     <ClCompile Include="Q\1927.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2630.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
@@ -222,7 +222,7 @@
       <Filter>Main</Filter>
     </ClInclude>
     <ClInclude Include="Obj\MinHip.h">
-      <Filter>MinHip</Filter>
+      <Filter>Main\MinHip</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
