@@ -8,7 +8,6 @@ void Solve(ifstream* pLoadStream)
 {
 	/*
 	0,0 에서 반대쪽 끝까지 가는데 걸리는 횟수 구하기
-	https://www.acmicpc.net/source/90851936 한번 읽어보고 지우기
 	*/
 	
 	int iSizeY, iSizeX;
