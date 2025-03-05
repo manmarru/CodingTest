@@ -1,7 +1,5 @@
-2
-13
-OOIOIOIOIIOII
-
+1
+4 4 4 4
 
 
 
@@ -11,7 +9,4 @@ OOIOIOIOIIOII
 
 
 ´ä
-3
-7
-8
-9
+4
