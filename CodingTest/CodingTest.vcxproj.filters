@@ -243,16 +243,16 @@
     <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본 - 복사본.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\6064.cpp">
+    <ClCompile Include="Q\11286.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\5525.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\6064.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
