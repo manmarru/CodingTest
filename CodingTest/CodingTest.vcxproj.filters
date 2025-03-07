@@ -255,9 +255,6 @@
     <ClCompile Include="Q\14940.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\7569.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1074.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
@@ -269,6 +266,21 @@
     </ClCompile>
     <ClCompile Include="Q\5430.cpp">
       <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\7569.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 - 복사본.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\10026.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본 - 복사본.cpp">
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
