@@ -4,6 +4,9 @@
 
 void Solve(ifstream* pLoadStream)
 {
+	/*
+	사다리 게임을 가장 빨리 끝낼 수 있는 턴 수 구하기
+	*/
 	int Board[101]{ 0 };
 	int BFS[101]{999};
 	for (int i = 1; i <= 100; ++i)
