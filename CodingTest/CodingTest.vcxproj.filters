@@ -270,16 +270,16 @@
     <ClCompile Include="Q\7569.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\7662 이중 우선순위 큐.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본 - 복사본.cpp">
+    <ClCompile Include="Q\9019 DSLR.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\10026.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\16928 뱀과 사다리 게임.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\7662 이중 우선순위 큐.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
