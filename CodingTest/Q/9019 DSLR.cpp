@@ -20,7 +20,7 @@ int R(int _Input)
 	return _Input / 10 + (_Input % 10) * 1000;
 }
 
-bool History[10001];
+bool Picked[10001];
 void Solve(ifstream* pLoadStream)
 {
 	/*
@@ -51,7 +51,7 @@ void Solve(ifstream* pLoadStream)
 		End = false;
 		CIN >> Input >> Target;
 		string Result{};
-		fill(History, History + 10000, false);
+		fill(Picked, Picked + 10000, false);
 		queue<pair<int, string>> Destination;
 		Destination.push({ Input , "" });
 
@@ -67,9 +67,9 @@ void Solve(ifstream* pLoadStream)
 					End = true;
 					break;
 				}
-				else if (!History[Next])
+				else if (!Picked[Next])
 				{
-					History[Next] = true;
+					Picked[Next] = true;
 					Destination.push({ Next , Destination.front().second + Name[i] });
 				}
 			}
