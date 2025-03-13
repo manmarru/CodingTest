@@ -282,19 +282,19 @@
     <ClCompile Include="Q\9019 DSLR.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\15650.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본 - 복사본.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본.cpp">
+    <ClCompile Include="Q\15652 N과M %284%29.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\14500 테트로미노.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\15650 N과 M.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
