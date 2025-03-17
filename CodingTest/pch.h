@@ -1,6 +1,6 @@
 ﻿#ifndef PCH_H
 #define PCH_H
-#define CIN *pLoadStream
+#define CIN *_pLoadStream
 
 #define INTMAX 2147483648
 #include "Define.h"
