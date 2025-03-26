@@ -4,7 +4,7 @@
 #include <set>
 #include <string>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	듣도 보도 못한 사람의 명단을 구하기

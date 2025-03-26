@@ -12,7 +12,7 @@ pair<int, int> operator+(pair<int, int> &Temp, pair<int, int> &Src)
 	return { Temp.first + Src.first, Temp.second + Src.second };
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	RGB로 이루어진 그림판에서 같은 색 집합의 갯수 찾기

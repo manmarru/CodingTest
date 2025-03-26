@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <list>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 		과일 탕후루의 과일 종류가 2개가 되도록 앞이나 뒤에서 과일을 빼기

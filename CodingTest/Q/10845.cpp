@@ -72,7 +72,7 @@ private:
 
 
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	Å¥ ±¸Çö

@@ -3,7 +3,7 @@
 #include <stack>
 #include <string>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	문자열이 VPS인지 체크
@@ -13,10 +13,10 @@ void Solve(ifstream* pLoadStream)
 	string szInput{};
 	stack<char> szBracket;
 	bool skip = true;
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 	for (int i = 0; i < iInput; ++i)
 	{
-		*pLoadStream >> szInput;
+		*_pLoadStream >> szInput;
 		for (char szWord : szInput)
 		{
 			if ('(' == szWord)

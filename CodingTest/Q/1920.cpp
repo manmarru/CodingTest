@@ -5,7 +5,7 @@
 #include <limits>
 #include <set>
 #include <unordered_set>
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 		수열 안에 숫자가 들어있는지 출력하기
@@ -22,21 +22,21 @@ void Solve(ifstream* pLoadStream)
 	int iSize{};
 	int iNum;
 	vector<int> vecNums;
-	*pLoadStream >> iSize;
+	*_pLoadStream >> iSize;
 	vecNums.resize(iSize);
 	for (int i = 0; i < iSize; ++i)
 	{
-		*pLoadStream >> vecNums[i];
+		*_pLoadStream >> vecNums[i];
 	}
 	sort(vecNums.begin(), vecNums.end());
 
 	int iLeft{ 0 };
 	int iRight{ 0 };
 	int iMid;
-	*pLoadStream >> iSize;
+	*_pLoadStream >> iSize;
 	for (int i = 0; i < iSize; ++i)
 	{
-		*pLoadStream >> iNum;
+		*_pLoadStream >> iNum;
 		iLeft = 0;
 		iRight = (int)vecNums.size() - 1;
 

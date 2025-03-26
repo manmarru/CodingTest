@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	add : 추가 (이미 있으면 무시

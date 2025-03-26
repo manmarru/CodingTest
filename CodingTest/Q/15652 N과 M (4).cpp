@@ -26,7 +26,7 @@ void BFS(int _Curr, int _Index)
 	}
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	CIN >> MaxNum >> Pick;
 	Picked.resize(MaxNum + 1);

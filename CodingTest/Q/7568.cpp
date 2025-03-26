@@ -2,7 +2,7 @@
 #include "pch.h"
 #include "Header.h"
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	두 값이 다 커야 덩치가 더 큼
@@ -10,13 +10,13 @@ void Solve(ifstream* pLoadStream)
 	*/
 
 	int iInput;
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 	vector<pair<int, int>> vecPeople;
 	vector<int> vecResult;
 	pair<int, int> pairInput;
 	for (size_t i = 0; i < iInput; i++)
 	{
-		*pLoadStream >> pairInput.first >> pairInput.second;
+		*_pLoadStream >> pairInput.first >> pairInput.second;
 		vecPeople.push_back(pairInput);
 		vecResult.push_back(0);
 	}

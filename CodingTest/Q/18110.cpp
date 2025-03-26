@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <math.h>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	15% 절사평군(반올림값 사용)으로 난이도값 결정

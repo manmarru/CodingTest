@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <queue>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	ÃÖ´ë Èü

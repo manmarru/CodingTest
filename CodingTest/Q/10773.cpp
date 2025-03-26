@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <stack>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	숫자를 입력받아서 입력값들의 합을 구함

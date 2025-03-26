@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	케빈 베이컨 수가 가장 적은 사람을 찾기

@@ -4,7 +4,7 @@
 #include <string>
 #include <algorithm>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	알파벳 소문자로 이루어진 N개의 단어가 들어오면 아래와 같은 조건에 따라 정렬하는 프로그램을 작성하시오.
@@ -17,11 +17,11 @@ void Solve(ifstream* pLoadStream)
 	int iSize(0);
 	string strInput;
 	list<string> listInput;
-	(*pLoadStream) >> iSize;
+	(*_pLoadStream) >> iSize;
 
 	for (size_t i = 0; i < iSize; i++)
 	{
-		(*pLoadStream) >> strInput;
+		(*_pLoadStream) >> strInput;
 		listInput.push_back(strInput);
 	}
 	

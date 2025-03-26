@@ -3,18 +3,18 @@
 #include "Header.h"
 #include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	//카드갯수, 블랙잭 넘버 카드들의 숫자값을 받고 블랙잭 넘버에 가장 가까운 3합결과를 출력
 	int iAmount(0), iMaxNum(0);
 	int Temp;
 	int iAnswer(0);
 	vector<int> vecDeck;
-	(*pLoadStream) >> iAmount >> iMaxNum;
+	(*_pLoadStream) >> iAmount >> iMaxNum;
 
 	for (size_t i = 0; i < iAmount; i++)
 	{
-		(*pLoadStream) >> Temp;
+		(*_pLoadStream) >> Temp;
 		if (Temp < iMaxNum)
 		{
 			vecDeck.push_back(Temp);

@@ -31,7 +31,7 @@ void WaySeek(int _ix, int _iy)
 	}
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	πË√ﬂ∞®ø∞

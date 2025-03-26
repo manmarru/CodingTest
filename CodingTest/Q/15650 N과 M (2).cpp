@@ -34,7 +34,7 @@ void dfs(int _Num, int _Index)
 
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/* 
 	1부터 N까지의 자연수 중

@@ -5,7 +5,7 @@
 #include <stack>
 #include <list>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	DFS 탐색 결과와 BFS 탐색 결과를 출력하기

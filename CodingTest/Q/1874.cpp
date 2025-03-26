@@ -3,7 +3,7 @@
 #include <stack>
 #include <queue>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	1부터 n까지의 수를 스텍에 push 하는데

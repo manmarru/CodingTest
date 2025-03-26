@@ -24,7 +24,7 @@ struct Coor
 	*/
 };
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	int iSizeX, iSizeY, iSizeZ;
 	vector<vector<vector<int>>> vecBox;

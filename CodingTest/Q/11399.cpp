@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <list>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	걍 정렬 아님? 시간제한이 1초긴 하네

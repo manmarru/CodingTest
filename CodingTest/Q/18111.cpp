@@ -4,7 +4,7 @@
 
 #define X 1
 #define Y 0
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	주어진 크기의 평평한 땅을 만드는 데 걸리는 최소 시간, 땅 높이 출력

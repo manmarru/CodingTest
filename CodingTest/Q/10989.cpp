@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <algorithm>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	정렬하기
@@ -12,13 +12,13 @@ void Solve(ifstream* pLoadStream)
 	*/
 	int iInput(0);
 	int iNum(0);
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 	vector<int> vecInput;
 	vecInput.resize(10001);
 
 	for (int i = 0; i < iInput; ++i)
 	{
-		*pLoadStream >> iNum;
+		*_pLoadStream >> iNum;
 		vecInput[iNum] += 1;
 	}
 	for (int i = 0; i < 10001; ++i)

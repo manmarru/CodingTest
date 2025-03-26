@@ -21,7 +21,7 @@ int R(int _Input)
 }
 
 bool Picked[10001];
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	명령에 따른 연산이 있다.

@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "Header.h"
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	Hashing
@@ -13,8 +13,8 @@ void Solve(ifstream* pLoadStream)
 	unsigned long iResult(0);
 	unsigned long iLength(0);
 	string strInput;
-	*pLoadStream >> iLength;
-	*pLoadStream >> strInput;
+	*_pLoadStream >> iLength;
+	*_pLoadStream >> strInput;
 
 
 	for (int i = 0; i < iLength; ++i)

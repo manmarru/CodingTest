@@ -7,7 +7,7 @@ int pow2(int _input)
 	return _input * _input;
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	¶ó±×¶ûÁÖ ³× Á¦°ö¼ö

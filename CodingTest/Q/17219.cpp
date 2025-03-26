@@ -3,7 +3,7 @@
 #include <string>
 #include <map>
 #include <unordered_map>
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	int iInput[2];
 	string szInput[2];

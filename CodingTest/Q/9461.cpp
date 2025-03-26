@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	문제 읽다 말았고

@@ -43,7 +43,7 @@ void EmptyQ()
 	swap(maxQ, Src);
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	이중 우선순위 큐 구현

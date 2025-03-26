@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <queue>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	사다리 게임을 가장 빨리 끝낼 수 있는 턴 수 구하기

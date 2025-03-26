@@ -53,7 +53,7 @@ private:
 	int iSize{};
 };
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	스텍 구현

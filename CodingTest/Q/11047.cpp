@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <stack>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	K원을 만들 수 있는 동전 갯수의 최솟값 구하기

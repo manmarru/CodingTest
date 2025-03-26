@@ -3,7 +3,7 @@
 #include <vector>
 #include <queue>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	익은 토마토는 인접한 토마토를 익힌다.

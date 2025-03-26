@@ -2,7 +2,7 @@
 #include "pch.h"
 #include "Header.h"
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	뒤에서부터 처음 0이 아닌 숫자가 나올 때까지 0의 개수를 구하기
@@ -11,7 +11,7 @@ void Solve(ifstream* pLoadStream)
 	int iInput(0);
 	int i2(0), i5(0);
 	int iCurrNum(0);
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 
 	for (int i = 1; i <= iInput; ++i)
 	{

@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	수열에서 가장 긴 증가하는 부분 수열을 구하기

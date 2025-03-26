@@ -3,7 +3,7 @@
 #include <string>
 #include <map>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	int iCase{};
 	CIN >> iCase;

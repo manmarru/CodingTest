@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	정수를 1,2,3의 합으로 나타내기 (순서가 다르면 다른 경우임)

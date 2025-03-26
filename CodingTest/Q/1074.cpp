@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <stack>
 #include <cmath>
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	사분면으로 계속 쪼개서

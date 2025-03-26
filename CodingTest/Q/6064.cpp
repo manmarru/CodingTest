@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "Header.h"
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	양쪽 아이디얼

@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <list>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	회의 시간표를 보고 가장 많이 넣을 수 있는 회의의 수를 출력

@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "Header.h"
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	입출력최적화;
 	/*
@@ -11,7 +11,7 @@ void Solve(ifstream* pLoadStream)
 	int iInput{};
 	int iCurr{};
 	int iResult{};
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 	iCurr = iInput;
 	iResult = (int)(iCurr / 5);
 	iCurr = iCurr % 5;

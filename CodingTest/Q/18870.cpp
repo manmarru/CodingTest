@@ -4,7 +4,7 @@
 #include <unordered_map>
 #include <queue>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	본인보다 작은 원소들의 갯수

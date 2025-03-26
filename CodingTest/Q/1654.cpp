@@ -16,7 +16,7 @@ int CableCut(int _iSize)
 	return iResult;
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	랜선들을 잘라서 N개 이상의 선을 만들어야 할 때 가능한 가장 긴 선의 길이

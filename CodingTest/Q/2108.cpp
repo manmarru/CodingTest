@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <cmath>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	»ê¼úÆò±Õ (Æò±Õ)

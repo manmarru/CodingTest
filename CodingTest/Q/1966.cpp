@@ -3,7 +3,7 @@
 #include <list>
 #include <map>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 		fifo

@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	모든 나무를 동일한 높이에서 자른다(기준보다 낮으면 안잘리는거고)

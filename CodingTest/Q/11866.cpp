@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <list>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	(N,K)요세푸스 순열을 구하기

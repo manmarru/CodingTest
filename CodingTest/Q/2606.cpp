@@ -4,7 +4,7 @@
 #include <vector>
 #include <queue>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	무조건 1번 컴퓨터가 감염

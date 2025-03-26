@@ -4,7 +4,7 @@
 #include <set>
 #include <queue>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	4방향 이동을 통해 만날 수 있는 사람의 수 구하기

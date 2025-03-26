@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <limits>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	//n의 가장 작은 생성자 구하기
 
@@ -12,7 +12,7 @@ void Solve(ifstream* pLoadStream)
 
 
 	string strInput;
-	(*pLoadStream) >> strInput;
+	(*_pLoadStream) >> strInput;
 
 	int iTarget = stoi(strInput);
 	int iDigits = strInput.size();

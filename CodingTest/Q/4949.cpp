@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <stack>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	문자열에서 괄호 () [] {} 들이 다 닫혀있는지 확인하기
@@ -14,7 +14,7 @@ void Solve(ifstream* pLoadStream)
 	stack<char> stdBracket;
 	while (true)
 	{
-		getline(*pLoadStream, szInput);
+		getline(*_pLoadStream, szInput);
 		for (char szTemp : szInput)
 		{
 

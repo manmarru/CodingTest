@@ -4,7 +4,7 @@
 #include <map>
 #include <string>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	포켓몬 도감 너무 가지고 싶다ㅜㅜ

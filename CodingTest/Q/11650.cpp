@@ -1,20 +1,20 @@
 #include "pch.h"
 #include "Header.h"
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	x값 오름차순으로, 같으면 y오름차순으로 정렬
 	*/
 
 	int iInput{};
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 
 	pair<int, int> Coord;
 	list<pair<int, int>> listCoord;
 	for (size_t i = 0; i < iInput; i++)
 	{
-		*pLoadStream >> Coord.first >> Coord.second;
+		*_pLoadStream >> Coord.first >> Coord.second;
 		listCoord.push_back(Coord);
 	}
 

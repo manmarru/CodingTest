@@ -3,7 +3,7 @@
 #include "Header.h"
 #include <queue>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	입출력최적화;
 	/*
@@ -18,7 +18,7 @@ void Solve(ifstream* pLoadStream)
 	(input - i) * 2 = 정답
 	*/
 	int iInput;
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 	if (iInput == 1)
 	{
 		cout << 1 << endl;

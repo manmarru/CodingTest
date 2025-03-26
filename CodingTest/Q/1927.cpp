@@ -25,7 +25,7 @@ private:
 	priority_queue<int, vector<int>, greater<int>> m_contain;
 };
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	최소 힙 구현

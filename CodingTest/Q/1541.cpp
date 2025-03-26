@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <string>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	식에 괄호를 쳐서 만들 수 있는 최솟값 구하기

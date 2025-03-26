@@ -50,7 +50,7 @@ int main(void) {
 */
 #pragma endregion
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	1초마다 +-1 이동 or *2 이동

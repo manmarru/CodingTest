@@ -36,7 +36,7 @@ void DFS(int _NumIndex, int _PickIndex)
 	}
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	제시되는 N개의 자연수 중 M 개를 고르는 수열들을 오름차순으로 나열

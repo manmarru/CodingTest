@@ -3,7 +3,7 @@
 #include <vector>
 
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	+1 or +2

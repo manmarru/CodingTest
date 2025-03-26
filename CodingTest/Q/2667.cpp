@@ -44,7 +44,7 @@ int BFS(int _iStartY, int _iStartX)
 	return iResult;
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	단지 묶음의 갯수를 구하고

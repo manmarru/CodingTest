@@ -3,7 +3,7 @@
 #include <string>
 #include <list>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	int iSize;
 	CIN >> iSize;

@@ -3,7 +3,7 @@
 #include <queue>
 #include <map>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	연결돼있는 묶음의 갯수 구하기

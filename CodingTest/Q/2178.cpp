@@ -4,7 +4,7 @@
 #include <queue>
 #include <string>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	0,0 에서 반대쪽 끝까지 가는데 걸리는 횟수 구하기

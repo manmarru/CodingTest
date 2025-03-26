@@ -4,17 +4,17 @@
 #include <list>
 #include <algorithm>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	//Á¤·Ä
 	int iInput(0);
 	list<pair<int, string>> listPeople;
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 
 	pair<int, string> People;
 	for (size_t i = 0; i < iInput; i++)
 	{
-		*pLoadStream >> People.first >> People.second;
+		*_pLoadStream >> People.first >> People.second;
 		listPeople.push_back(People);
 	}
 

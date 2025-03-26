@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	2*n 크기의 직사각형을 채우는 방법의 수를 10007로 나눈 나머지를 출력

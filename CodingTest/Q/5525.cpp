@@ -17,7 +17,7 @@ int Result(int _iSize, bool _endO)
 	}
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	P1 = IoI

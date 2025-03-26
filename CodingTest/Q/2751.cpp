@@ -2,7 +2,7 @@
 #include "pch.h"
 #include "Header.h"
 #include <set>
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	Á¤·Ä
@@ -12,10 +12,10 @@ void Solve(ifstream* pLoadStream)
 
 	int iInput(0);
 	int iNum(0);
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 	for (size_t i = 0; i < iInput; i++)
 	{
-		*pLoadStream >> iNum;
+		*_pLoadStream >> iNum;
 		setNums.insert(iNum);
 	}
 

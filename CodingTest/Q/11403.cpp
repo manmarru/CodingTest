@@ -2,7 +2,7 @@
 #include "Header.h"
 #include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	그래프에서 한번에 이동 가능한(단방향) 노드 표를 보고 갈 수 있는 모든 노드를 표시하기

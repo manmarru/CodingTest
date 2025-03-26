@@ -3,7 +3,7 @@
 #include <vector>
 #include <queue>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	모든 지점에 대해서 목표지점까지의 거리 구하기

@@ -2,23 +2,23 @@
 #include "Header.h"
 #include <map>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	int iInputSize{};
 	map<int, int> mapCards;
 	int iInput{};
 
-	*pLoadStream >> iInputSize;
+	*_pLoadStream >> iInputSize;
 	for (int i = 0; i < iInputSize; ++i)
 	{
-		*pLoadStream >> iInput;
+		*_pLoadStream >> iInput;
 		mapCards[iInput] += 1;
 	}
 
-	*pLoadStream >> iInputSize;
+	*_pLoadStream >> iInputSize;
 	for (int i = 0; i < iInputSize; ++i)
 	{
-		*pLoadStream >> iInput;
+		*_pLoadStream >> iInput;
 		cout << mapCards[iInput] << ' ';
 	}
 

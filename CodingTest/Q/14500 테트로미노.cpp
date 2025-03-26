@@ -127,7 +127,7 @@ void O() //네모는 1가지
 	}
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	숫자판에 테르노미노 하나를 놓아서

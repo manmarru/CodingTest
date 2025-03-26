@@ -3,7 +3,7 @@
 #include <list>
 #include <string>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	666이 들어간 n번째로 작은 숫자 출력

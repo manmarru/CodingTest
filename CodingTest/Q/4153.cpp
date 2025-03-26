@@ -2,7 +2,7 @@
 #include "pch.h"
 #include "Header.h"
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	//각 변의 길이를 받고 직각삼각형인지 판정하기, 0, 0, 0이 입력값으로 들어올때까지 반복
 
@@ -10,7 +10,7 @@ void Solve(ifstream* pLoadStream)
 
 	while (1)
 	{
-		(*pLoadStream) >> iInput[0] >> iInput[1] >> iInput[2];
+		(*_pLoadStream) >> iInput[0] >> iInput[1] >> iInput[2];
 		if (iInput[0] == 0 && iInput[1] == 0)
 			return;
 

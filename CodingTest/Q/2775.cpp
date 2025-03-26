@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "Header.h"
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 		kÃþÀÇ nÈ£¿¡´Â
@@ -13,10 +13,10 @@ void Solve(ifstream* pLoadStream)
 	*/
 	int iInput(0);
 	int iFloor(0), iDoor(0);
-	*pLoadStream >> iInput;
+	*_pLoadStream >> iInput;
 	for (int i = 0; i < iInput; ++i)
 	{
-		*pLoadStream >> iFloor >> iDoor;
+		*_pLoadStream >> iFloor >> iDoor;
 
 		if (iDoor == 1)
 		{

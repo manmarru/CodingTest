@@ -1,13 +1,13 @@
 #include "pch.h"
 #include "Header.h"
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	string test[3];
 	int lastnum(0);
 
 
-	(*pLoadStream) >> test[0] >> test[1] >> test[2];
+	(*_pLoadStream) >> test[0] >> test[1] >> test[2];
 
 	//주어진 숫자 세개가 다 FizzBuzz 형태인건 불가능하고, 무조건 숫자가 하나 들어옴
 	for (size_t i = 0; i < 3; i++)

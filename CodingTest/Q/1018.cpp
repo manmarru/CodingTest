@@ -1,7 +1,8 @@
 #include "pch.h"
 #include "Header.h"
+#include <vector>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	망가진 체스판에서 가장 비슷한 8*8 부분을 자르고
@@ -9,14 +10,14 @@ void Solve(ifstream* pLoadStream)
 	*/
 
 	pair<int, int> inputSize{};
-	*pLoadStream >> inputSize.second >> inputSize.first;
+	*_pLoadStream >> inputSize.second >> inputSize.first;
 	int iMin{64};
 	int iTarget{0};
 	vector<string> ChessBoard;
 	ChessBoard.resize(inputSize.second);
 	for (int y = 0; y < inputSize.second; ++y)
 	{
-		*pLoadStream >> ChessBoard[y];
+		*_pLoadStream >> ChessBoard[y];
 		cout << ChessBoard[y] << endl;
 	}
 

@@ -3,7 +3,7 @@
 #include <limits>
 #include <list>
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	//펠린드롬수 판별하기
 	//대칭인 숫자 = true
@@ -15,7 +15,7 @@ void Solve(ifstream* pLoadStream)
 	list<int> listSingleNum;
 	while (1)
 	{
-		(*pLoadStream) >> iInput;
+		(*_pLoadStream) >> iInput;
 		if (0 == iInput)
 			return;
 		if (9 >= iInput)

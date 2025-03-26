@@ -43,7 +43,7 @@ void quad(int _iX, int _iY, int _iSize)
 	}
 }
 
-void Solve(ifstream* pLoadStream)
+void Solve(ifstream* _pLoadStream)
 {
 	/*
 	1이 파랑 0 이 하양
