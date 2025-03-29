@@ -297,10 +297,7 @@
     <ClCompile Include="Q\11053 가장 긴 증가하는 부분 수열.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\30156.cpp">
+    <ClCompile Include="Q\5235 Even Sum More Than Odd Sum.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\15663N과 M%289%29.cpp">
@@ -313,6 +310,9 @@
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\10156 과자.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\30156 Malvika is peculiar about color of balloons.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
