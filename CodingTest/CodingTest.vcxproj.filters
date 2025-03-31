@@ -330,14 +330,14 @@
     <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2520 팬케이크 사랑.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (2).cpp">
+    <ClCompile Include="Q\10163 색종이.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
       <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2520 팬케이크 사랑.cpp">
+      <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
