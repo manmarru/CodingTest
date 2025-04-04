@@ -315,10 +315,7 @@
     <ClCompile Include="Q\15663N과 M%289%29.cpp">
       <Filter>Later</Filter>
     </ClCompile>
-    <ClCompile Include="Q\15096 Batter Up.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
+    <ClCompile Include="Q\27512 스네이크.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
@@ -337,6 +334,9 @@
       <Filter>Later</Filter>
     </ClCompile>
     <ClCompile Include="Q\30676 이 별은 무슨 색일까.cpp">
+      <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\15096 Batter Up.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
   </ItemGroup>
