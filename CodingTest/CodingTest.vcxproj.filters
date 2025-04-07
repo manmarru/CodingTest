@@ -19,6 +19,9 @@
     <Filter Include="Main\MinHip">
       <UniqueIdentifier>{23b0bdd7-f0e7-4435-838a-57c2b3f9efca}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Solved\Bronz1">
+      <UniqueIdentifier>{3fab0d48-4585-46ba-9ea6-374695547996}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -315,10 +318,7 @@
     <ClCompile Include="Q\15663N과 M%289%29.cpp">
       <Filter>Later</Filter>
     </ClCompile>
-    <ClCompile Include="Q\9506 약수들의 합.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
+    <ClCompile Include="Q\3154 알람시계.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\2520 팬케이크 사랑.cpp">
@@ -338,6 +338,9 @@
     </ClCompile>
     <ClCompile Include="Q\27512 스네이크.cpp">
       <Filter>Solved</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\9506 약수들의 합.cpp">
+      <Filter>Solved\Bronz1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
