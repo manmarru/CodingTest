@@ -19,8 +19,29 @@
     <Filter Include="Main\MinHip">
       <UniqueIdentifier>{23b0bdd7-f0e7-4435-838a-57c2b3f9efca}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Solved\Bronz1">
+    <Filter Include="Solved\Bronze1">
       <UniqueIdentifier>{3fab0d48-4585-46ba-9ea6-374695547996}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Bronze2">
+      <UniqueIdentifier>{d603cbc5-9165-4107-9fe9-c0b05f6aa0ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Bronze3">
+      <UniqueIdentifier>{b6e27781-a803-441a-b8c1-608d19b91006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Bronze4">
+      <UniqueIdentifier>{aa79e080-b733-46bf-ae71-ac7e91f9b72a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Bronze5">
+      <UniqueIdentifier>{f2d6cd64-d4cb-4451-bacb-80bb269b6217}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Silver5">
+      <UniqueIdentifier>{f20c51bf-a888-420a-88dd-10f718cea353}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Silver4">
+      <UniqueIdentifier>{7fd0ed82-08a5-443b-9ba8-b4e53c97dd13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Silver3">
+      <UniqueIdentifier>{2f64d8ec-54a7-4410-8c8c-a40d5c33520c}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -36,49 +57,16 @@
     <ClCompile Include="Q\4153.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\28702.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
     <ClCompile Include="Q\30802.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\2798.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1259.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2609.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1181.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11050.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
     <ClCompile Include="Q\15829.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2775.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
     <ClCompile Include="Q\10989.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1676.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\7568.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\10814.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11650.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11651.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\1018.cpp">
@@ -114,9 +102,6 @@
     <ClCompile Include="Q\10773.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\18110.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1929.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
@@ -130,15 +115,6 @@
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\1874.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2751.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1436.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11723.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\1620.cpp">
@@ -318,29 +294,95 @@
     <ClCompile Include="Q\15663N과 M%289%29.cpp">
       <Filter>Later</Filter>
     </ClCompile>
-    <ClCompile Include="Q\3154 알람시계.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2520 팬케이크 사랑.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\10163 색종이.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\15740 A + B - 9.cpp">
       <Filter>Later</Filter>
     </ClCompile>
-    <ClCompile Include="Q\30676 이 별은 무슨 색일까.cpp">
-      <Filter>Solved</Filter>
+    <ClCompile Include="Q\9506 약수들의 합.cpp">
+      <Filter>Solved\Bronze1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\15096 Batter Up.cpp">
-      <Filter>Solved</Filter>
+    <ClCompile Include="Q\3154 알람시계.cpp">
+      <Filter>Solved\Bronze1</Filter>
     </ClCompile>
     <ClCompile Include="Q\27512 스네이크.cpp">
-      <Filter>Solved</Filter>
+      <Filter>Solved\Bronze2</Filter>
     </ClCompile>
-    <ClCompile Include="Q\9506 약수들의 합.cpp">
-      <Filter>Solved\Bronz1</Filter>
+    <ClCompile Include="Q\15096 Batter Up.cpp">
+      <Filter>Solved\Bronze3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\30676 이 별은 무슨 색일까.cpp">
+      <Filter>Solved\Bronze5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\28702 FizzBuzz.cpp">
+      <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\11050 이항 계수 1.cpp">
+      <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\10163 색종이.cpp">
+      <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2775 부녀회장이 될 테야.cpp">
+      <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2609 최대공약수와 최소공배수.cpp">
+      <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1259 팰린드롬수.cpp">
+      <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\11723 집합.cpp">
+      <Filter>Solved\Silver5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\11651 좌표 정렬하기 2.cpp">
+      <Filter>Solved\Silver5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\11650 좌표 정렬하기.cpp">
+      <Filter>Solved\Silver5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\10814 나이순 정렬.cpp">
+      <Filter>Solved\Silver5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\7568 덩치.cpp">
+      <Filter>Solved\Silver5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2751 수 정렬하기 2.cpp">
+      <Filter>Solved\Silver5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1676 팩토리얼 0의 갯수.cpp">
+      <Filter>Solved\Silver5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1436 영화감독 숌.cpp">
+      <Filter>Solved\Silver5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1181 단어정렬.cpp">
+      <Filter>Solved\Silver5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\18110 solved.ac.cpp">
+      <Filter>Solved\Silver4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (2).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\13301.cpp">
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
