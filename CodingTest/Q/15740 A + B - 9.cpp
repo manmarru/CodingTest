@@ -3,6 +3,14 @@
 #include <string>
 #include <stack>
 
+/*
+파이썬 두줄로 풀었다 ㅅㄱ
+a, b = map(int, input().split())
+print(a + b)
+이게맞냐
+*/
+
+
 void Solve(ifstream* _pLoadStream)
 {
 	/*

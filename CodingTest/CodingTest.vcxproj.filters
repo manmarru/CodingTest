@@ -43,6 +43,18 @@
     <Filter Include="Solved\Silver3">
       <UniqueIdentifier>{2f64d8ec-54a7-4410-8c8c-a40d5c33520c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Solved\Silver2">
+      <UniqueIdentifier>{18768965-5a07-43da-834d-a0c279edfe81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Gold 5">
+      <UniqueIdentifier>{799914ba-6058-4694-a811-7b4011ca9548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Silver1">
+      <UniqueIdentifier>{00ff5efd-98c2-4d17-bb8a-1a6c2ef0e6b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Gold 4">
+      <UniqueIdentifier>{98d66b80-f75c-40a5-9813-bebc408831d4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -69,15 +81,6 @@
     <ClCompile Include="Q\10989.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1018.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1920.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2164.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2839.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
@@ -102,27 +105,6 @@
     <ClCompile Include="Q\10773.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1929.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1966.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2108.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1654.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1874.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1620.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1764.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
     <ClCompile Include="Q\11047.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
@@ -130,12 +112,6 @@
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\17219.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1003.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1463.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\2579.cpp">
@@ -168,20 +144,8 @@
     <ClCompile Include="Q\17626.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1012.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1260.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1541.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
     <ClCompile Include="Obj\MinHip.cpp">
       <Filter>Main\MinHip</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1927.cpp">
-      <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\2630.cpp">
       <Filter>Solved</Filter>
@@ -207,12 +171,6 @@
     <ClCompile Include="Q\30804.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1389.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1697.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2178.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
@@ -232,12 +190,6 @@
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\14940.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1074.cpp">
-      <Filter>Solved</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1931.cpp">
       <Filter>Solved</Filter>
     </ClCompile>
     <ClCompile Include="Q\7576.cpp">
@@ -375,14 +327,74 @@
     <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+    <ClCompile Include="Q\15666 N과 M.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\13301 타일 장식물.cpp">
       <Filter>Solved\Silver5</Filter>
     </ClCompile>
     <ClCompile Include="Q\15663N과 M%289%29.cpp">
-      <Filter>Solving</Filter>
+      <Filter>Solved\Silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1003 피보나치 함수.cpp">
+      <Filter>Solved\Silver3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1012 유기농 배추.cpp">
+      <Filter>Solved\Silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1018 체스판 다시 칠하기.cpp">
+      <Filter>Solved\Silver4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1074 Z.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1260 DFS와 BFS.cpp">
+      <Filter>Solved\Silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1389 케빈 베이컨의 6단계 법칙.cpp">
+      <Filter>Solved\Silver1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1463 1로 만들기.cpp">
+      <Filter>Solved\Silver3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1541 잃어버린 괄호.cpp">
+      <Filter>Solved\Silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1620 나는야 포켓몬 마스터 이다솜.cpp">
+      <Filter>Solved\Silver4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1654 랜선 자르기.cpp">
+      <Filter>Solved\Silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1697 숨바꼭질.cpp">
+      <Filter>Solved\Silver1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1764 듣보잡.cpp">
+      <Filter>Solved\Silver4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1874 스택 수열.cpp">
+      <Filter>Solved\Silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1920 수 찾기.cpp">
+      <Filter>Solved\Silver4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1927 최소 힙.cpp">
+      <Filter>Solved\Silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1929 소수 구하기.cpp">
+      <Filter>Solved\Silver3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1931 회의실 배정.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1966 프린터 큐.cpp">
+      <Filter>Solved\Silver3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2108 통계학.cpp">
+      <Filter>Solved\Silver2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2164 카드2.cpp">
+      <Filter>Solved\Silver4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
