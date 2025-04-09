@@ -1,12 +1,23 @@
-8
-71 39 44
-32 83 55
-51 37 63
-89 29 100
-83 58 11
-65 13 15
-47 25 29
-60 66 19
+IvEq6YyEYYjmn 1.0 B0
+ULt4v6LgEQ 1.0 C+   
+5MAZN 3.0 A+        
+3IrQe2PjL9oKz 2.0 B0
+AUySE4 3.0 B+       
+kXuElorohy 2.0 F    
+FCtiw 1.0 C+        
+ULQLVVrxv 1.0 B0    
+5FGp2JJJ 2.0 C+     
+MzP7U9F 2.0 A+      
+mMObfK1V 4.0 F      
+dHT277WF 2.0 B0
+FE7NVcn2Dmo 4.0 F
+VIMq56Z09 3.0 D0
+i29ikahO 2.0 C+
+5a1G7GIVDr 4.0 C0
+Ze4emJBT2xT6 3.0 A+
+sE99piBH 4.0 D+
+qC7qxF1iNXHMk 2.0 B+
+2ovjImW 2.0 C+
 
 ´ä
-96
+2.260417
