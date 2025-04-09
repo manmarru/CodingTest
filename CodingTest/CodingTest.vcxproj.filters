@@ -135,10 +135,7 @@
     <ClCompile Include="Q\18110 solved.ac.cpp">
       <Filter>Solved\Silver4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\25206 너의 평점은.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+    <ClCompile Include="Q\1629 곱셈.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
@@ -395,6 +392,9 @@
     </ClCompile>
     <ClCompile Include="Q\1149 RGB 거리.cpp">
       <Filter>Solved\Silver1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\25206 너의 평점은.cpp">
+      <Filter>Solved\Silver5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
