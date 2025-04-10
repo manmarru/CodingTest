@@ -396,9 +396,6 @@
     <ClCompile Include="Q\1932 정수 삼각형.cpp">
       <Filter>Solved\Silver1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\9465 스티커.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
@@ -411,10 +408,13 @@
     <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+    <ClCompile Include="Q\11660 구간 합 구하기 5.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\1991 트리 순회.cpp">
+      <Filter>Solved\Silver1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\9465 스티커.cpp">
       <Filter>Solved\Silver1</Filter>
     </ClCompile>
   </ItemGroup>
