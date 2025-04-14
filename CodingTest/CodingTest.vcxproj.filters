@@ -396,9 +396,6 @@
     <ClCompile Include="Q\1932 정수 삼각형.cpp">
       <Filter>Solved\Silver1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\12865 평범한 배낭.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1991 트리 순회.cpp">
       <Filter>Solved\Silver1</Filter>
     </ClCompile>
@@ -414,8 +411,11 @@
     <ClCompile Include="Q\2096 내려가기.cpp">
       <Filter>Solved\Gold 5</Filter>
     </ClCompile>
+    <ClCompile Include="Q\12865 평범한 배낭.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
     <ClCompile Include="Q\9251 LCS.cpp">
-      <Filter>Later</Filter>
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
