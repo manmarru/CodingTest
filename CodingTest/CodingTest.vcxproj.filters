@@ -417,10 +417,7 @@
     <ClCompile Include="Q\9251 LCS.cpp">
       <Filter>Solved\Gold 5</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1753 최단경로.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+    <ClCompile Include="Q\1967 트리의 지름.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
@@ -442,6 +439,9 @@
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\1504 특정한 최단 경로.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1753 최단경로.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
   </ItemGroup>
