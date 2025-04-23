@@ -444,10 +444,7 @@
     <ClCompile Include="Q\2448 별 찍기.cpp">
       <Filter>Later</Filter>
     </ClCompile>
-    <ClCompile Include="Q\9663 N-Queen.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+    <ClCompile Include="Q\9935 문자열 폭발.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
@@ -466,6 +463,9 @@
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\5639 이진 탐색 트리.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\9663 N-Queen.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
   </ItemGroup>
