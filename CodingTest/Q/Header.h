@@ -1,4 +1,4 @@
 #pragma once
-#include "pch.h"
+//#include "pch.h"
 
 void Solve(ifstream* _pLoadStream);

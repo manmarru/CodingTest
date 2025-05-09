@@ -10,16 +10,11 @@ int main()
 	cin.tie(nullptr);
 	cout.tie(NULL);
 
-
-
 	ifstream LoadStream("../Data/Input.txt");
 
 	Solve(&LoadStream);
 
 	LoadStream.close();
-	
-
-
 
 	return 0;
 }

@@ -441,32 +441,53 @@
     <ClCompile Include="Q\1987 알파벳.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2448 별 찍기.cpp">
-      <Filter>Later</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\9935 문자열 폭발.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\5639 이진 탐색 트리.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\9663 N-Queen.cpp">
       <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\9935 문자열 폭발.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\33632 2교시_체육.cpp">
+      <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\33663 루미의 진정한 보라색 찾기.cpp">
+      <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\17362 수학은 체육과목 입니다 2.cpp">
+      <Filter>Solved\Bronze4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Test000.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Test001.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Test002.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Test003.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Test004.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Test005.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Test006.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Test007.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\10840 행렬 제곱.cpp">
+      <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2448 별 찍기.cpp">
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
