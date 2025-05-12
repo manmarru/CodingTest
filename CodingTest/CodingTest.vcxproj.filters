@@ -459,9 +459,6 @@
     <ClCompile Include="Q\17362 수학은 체육과목 입니다 2.cpp">
       <Filter>Solved\Bronze4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\16497 대출 요청.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\Test005.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
@@ -476,6 +473,9 @@
     </ClCompile>
     <ClCompile Include="Q\10840 행렬 제곱.cpp">
       <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\16497 대출 요청.cpp">
+      <Filter>Solved\Bronze2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "Header.h"
 #include <vector>
-
+#include <stack>
 
 int Size;
 
@@ -52,27 +52,71 @@ void Solve(ifstream* _pLoadStream)
 			CIN >> Matrix[y][x];
 		}
 	}
-	Input -= 1;
-	int Curr = 0;
-	vector<vector<int>> Temp = Matrix;
-	for (int i = 0; i < Input; ++i)
+	
+	vector<vector<int>> Result = Matrix;
+	stack<bool> Pow2; //false 면 + 1, true면 * 2
+	while (Input != 1)
 	{
-		Matrix = Matrix * Temp;
-		Curr += 1;
+		if (Input % 2 == 0)
+		{
+			Pow2.push(true);
+			Input /= 2;
+		}
+		else
+		{
+			Pow2.push(false);
+			Input -= 1;
+		}
 	}
+	/*
+	fttft
+	1 * 2) * 2) + 1) * 2
+	*/
+	bool Curr;
+	while (!Pow2.empty())
+	{
+		Curr = Pow2.top();
+		Pow2.pop();
+		if (Curr)
+		{
+			Result = Result * Result;
+		}
+		else
+		{
+			Result = Result * Matrix;
+		}
+	}
+
+	for (int y = 0; y < Size; ++y) // 연산 한번도 안했을 경우 %1000 연산을 아에 안하니까!
+	{
+		for (int x = 0; x < Size; ++x)
+		{
+			Result[y][x] %= 1000;
+		}
+	}
+
+	
+	// 행렬 출력
 	for (int y = 0; y < Size; ++y)
 	{
 		for (int x = 0; x < Size; ++x)
 		{
-			cout << Matrix[y][x] << '\t';
+			cout << Result[y][x] << ' ';
 		}
 		cout << endl;
 	}
-	/*
-	음...일단 쪼개야될거같은데
-	B = B1 + B2
-	B1 = B3 + B4 이런식으로
-	*/
 	
-
 }
+
+/*
+31 = 30 + 1
+30 = 15 * 2
+15 = 14 + 1
+14 = 7 * 2
+7 = 6 + 1
+6 = 3 * 2
+3 = 2 + 1
+2 = 1 + 1
+
+31 = ((((((1 + 1) + 1)*2) + 1 ) * 2) +1) *2) +1)
+*/
