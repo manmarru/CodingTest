@@ -4,25 +4,27 @@
 
 
 int Size;
-vector<vector<int>> mult(vector<vector<int>>& _Amatrix, vector<vector<int>>& _Bmatrix)
+
+vector<vector<int>> operator *(vector<vector<int>> Temp, vector<vector<int>> Src)
 {
 	vector<vector<int>> Result;
-	for (int i = 0; i = Size; ++i)
+	int Width = Temp.size();
+	for (int i = 0; i < Width; ++i)
 	{
-		Result.resize(Size);
-		for (int j = 0; j < Size; ++j)
+		Result.resize(Width);
+		for (int j = 0; j < Width; ++j)
 		{
-			Result[i].resize(Size, 0);
+			Result[j].resize(Width, 0);
 		}
 	}
 
-	for (int y = 0; y < Size; ++y)
+	for (int y = 0; y < Width; ++y)
 	{
-		for (int x = 0; x < Size; ++x)
+		for (int x = 0; x < Width; ++x)
 		{
-			for (int i = 0; i < Size; ++i)
+			for (int i = 0; i < Width; ++i)
 			{
-				Result[y][x] += _Amatrix[y][i] * _Bmatrix[i][x];
+				Result[y][x] += Temp[y][i] * Src[i][x];
 				Result[y][x] %= 1000;
 			}
 		}
@@ -38,25 +40,38 @@ void Solve(ifstream* _pLoadStream)
 	1 <= A <= 5
 	1 <= B <= 천억
 	*/
-	long long int Input;
+	unsigned long long int Input;
 	CIN >> Size >> Input;
 	
 	vector<vector<int>> Matrix(Size);
-	for (int i = 0; i < Size; ++i)
+	for (int y = 0; y < Size; ++y)
 	{
-		Matrix.resize(Size);
-		for (int j = 0; j < Size; ++j)
+		Matrix[y].resize(Size);
+		for (int x = 0; x < Size; ++x)
 		{
-			CIN >> Matrix[i][j];
+			CIN >> Matrix[y][x];
 		}
 	}
-	
-	long long int Curr;
+	Input -= 1;
+	int Curr = 0;
+	vector<vector<int>> Temp = Matrix;
+	for (int i = 0; i < Input; ++i)
+	{
+		Matrix = Matrix * Temp;
+		Curr += 1;
+	}
+	for (int y = 0; y < Size; ++y)
+	{
+		for (int x = 0; x < Size; ++x)
+		{
+			cout << Matrix[y][x] << '\t';
+		}
+		cout << endl;
+	}
 	/*
 	음...일단 쪼개야될거같은데
 	B = B1 + B2
 	B1 = B3 + B4 이런식으로
-	
 	*/
 	
 

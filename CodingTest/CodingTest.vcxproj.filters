@@ -459,19 +459,7 @@
     <ClCompile Include="Q\17362 수학은 체육과목 입니다 2.cpp">
       <Filter>Solved\Bronze4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\Test000.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\Test001.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\Test002.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\Test003.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\Test004.cpp">
+    <ClCompile Include="Q\16497 대출 요청.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\Test005.cpp">
@@ -483,10 +471,10 @@
     <ClCompile Include="Q\Test007.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\10840 행렬 제곱.cpp">
-      <Filter>Later</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2448 별 찍기.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\10840 행렬 제곱.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
