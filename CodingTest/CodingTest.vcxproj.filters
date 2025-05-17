@@ -459,10 +459,10 @@
     <ClCompile Include="Q\17362 수학은 체육과목 입니다 2.cpp">
       <Filter>Solved\Bronze4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\Test005.cpp">
+    <ClCompile Include="Q\11054 가장 긴 바이토닉 부분 수열.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\Test006.cpp">
+    <ClCompile Include="Q\1333 부재중 전화.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\Test007.cpp">
@@ -471,11 +471,11 @@
     <ClCompile Include="Q\2448 별 찍기.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\10840 행렬 제곱.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\16497 대출 요청.cpp">
       <Filter>Solved\Bronze2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\10840 행렬 제곱.cpp">
+      <Filter>Solved\Gold 4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
