@@ -55,6 +55,9 @@
     <Filter Include="Solved\Gold 4">
       <UniqueIdentifier>{98d66b80-f75c-40a5-9813-bebc408831d4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Solved\--Competition">
+      <UniqueIdentifier>{f9f55a2c-8866-43a7-b1d0-7df066c47f36}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -462,12 +465,6 @@
     <ClCompile Include="Q\11054 가장 긴 바이토닉 부분 수열.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1333 부재중 전화.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\Test007.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2448 별 찍기.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
@@ -476,6 +473,12 @@
     </ClCompile>
     <ClCompile Include="Q\10840 행렬 제곱.cpp">
       <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1333 부재중 전화.cpp">
+      <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\서울대 SCSC C 격자 경로의 가중치.cpp">
+      <Filter>Solved\--Competition</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
