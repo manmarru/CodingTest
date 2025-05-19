@@ -477,7 +477,7 @@
     <ClCompile Include="Q\1333 부재중 전화.cpp">
       <Filter>Solved\Bronze1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\서울대 SCSC C 격자 경로의 가중치.cpp">
+    <ClCompile Include="Q\B 주사위 피라미드.cpp">
       <Filter>Solved\--Competition</Filter>
     </ClCompile>
   </ItemGroup>
