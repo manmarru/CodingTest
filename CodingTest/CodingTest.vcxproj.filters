@@ -480,10 +480,7 @@
     <ClCompile Include="Q\11054 가장 긴 바이토닉 부분 수열.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\12851 숨바꼭질 2.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+    <ClCompile Include="Q\13172 Σ.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
@@ -498,10 +495,13 @@
     <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
+    <ClCompile Include="Q\14502 연구소.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\11404 플로이드.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\12851 숨바꼭질 2.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
   </ItemGroup>
