@@ -480,10 +480,7 @@
     <ClCompile Include="Q\11054 가장 긴 바이토닉 부분 수열.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\30805 사전 순 최대 공통 부분 수열.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+    <ClCompile Include="Q\1238 파티.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\11404 플로이드.cpp">
@@ -502,6 +499,9 @@
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\17144 미세먼지 안녕!.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\30805 사전 순 최대 공통 부분 수열.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
   </ItemGroup>
