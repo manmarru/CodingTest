@@ -504,10 +504,7 @@
     <ClCompile Include="Q\30805 사전 순 최대 공통 부분 수열.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2638 치즈.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
+    <ClCompile Include="Q\11779 최소비용 구하기.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
@@ -526,6 +523,9 @@
       <Filter>Solved\Gold 3</Filter>
     </ClCompile>
     <ClCompile Include="Q\2206 벽 부수고 이동하기.cpp">
+      <Filter>Solved\Gold 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2638 치즈.cpp">
       <Filter>Solved\Gold 3</Filter>
     </ClCompile>
   </ItemGroup>
