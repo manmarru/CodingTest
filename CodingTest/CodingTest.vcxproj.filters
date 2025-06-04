@@ -61,6 +61,9 @@
     <Filter Include="Solved\Silver 5">
       <UniqueIdentifier>{f20c51bf-a888-420a-88dd-10f718cea353}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Solved\Gold 2">
+      <UniqueIdentifier>{7350d79c-7cad-4454-b912-8053afe78ac2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -504,9 +507,6 @@
     <ClCompile Include="Q\30805 사전 순 최대 공통 부분 수열.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1167 트리의 지름.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1238 파티.cpp">
       <Filter>Solved\Gold 3</Filter>
     </ClCompile>
@@ -527,6 +527,30 @@
     </ClCompile>
     <ClCompile Include="Q\16236 아기 상어.cpp">
       <Filter>Solved\Gold 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1167 트리의 지름.cpp">
+      <Filter>Solved\Gold 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (2).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1918 후위 표기식.cpp">
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
