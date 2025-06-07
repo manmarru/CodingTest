@@ -531,10 +531,7 @@
     <ClCompile Include="Q\1167 트리의 지름.cpp">
       <Filter>Solved\Gold 2</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2166 다각형의 면적.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
+    <ClCompile Include="Q\2467 용액.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
@@ -551,6 +548,9 @@
     </ClCompile>
     <ClCompile Include="Q\11444 피보나치 수.cpp">
       <Filter>Solved\Gold 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2166 다각형의 면적.cpp">
+      <Filter>Solved\Gold 5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
