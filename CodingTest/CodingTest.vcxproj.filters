@@ -531,10 +531,7 @@
     <ClCompile Include="Q\1167 트리의 지름.cpp">
       <Filter>Solved\Gold 2</Filter>
     </ClCompile>
-    <ClCompile Include="Q\15681 트리와 쿼리.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
+    <ClCompile Include="Q\1106 호텔.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
@@ -550,6 +547,9 @@
       <Filter>Solved\Gold 5</Filter>
     </ClCompile>
     <ClCompile Include="Q\2467 용액.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\15681 트리와 쿼리.cpp">
       <Filter>Solved\Gold 5</Filter>
     </ClCompile>
   </ItemGroup>
