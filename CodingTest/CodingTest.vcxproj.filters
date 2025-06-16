@@ -558,13 +558,7 @@
     <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1806 부분합.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+    <ClCompile Include="Q\2239 스도쿠.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
@@ -575,6 +569,12 @@
     </ClCompile>
     <ClCompile Include="Q\14626 ISBN.cpp">
       <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1806 부분합.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\33664 현실적인 생일 축하 방안.cpp">
+      <Filter>Later</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
