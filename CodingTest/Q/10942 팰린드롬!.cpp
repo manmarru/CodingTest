@@ -7,7 +7,7 @@ void Solve(ifstream* _pLoadStream)
 {
 	int Case;
 	CIN >> Case;
-	vector<int> Nums(Case); // 숫자, 펠린드롬 짝 위치
+	vector<int> Nums(Case);
 	vector<vector<bool>> DP(Case, vector<bool>(Case, false));
 
 	for (int i = 0; i < Case; ++i)

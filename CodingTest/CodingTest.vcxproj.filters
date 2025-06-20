@@ -552,10 +552,7 @@
     <ClCompile Include="Q\1197 최소 스패닝 트리.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\10942 팰린드롬!.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
+    <ClCompile Include="Q\17404 RGB 거리 2.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\1647 도시 분할 계획.cpp">
@@ -574,6 +571,9 @@
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\9252 LCS 2.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\10942 팰린드롬!.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
   </ItemGroup>
