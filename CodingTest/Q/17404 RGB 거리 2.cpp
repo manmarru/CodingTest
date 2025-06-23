@@ -30,7 +30,7 @@ void Solve(ifstream* _pLoadStream)
 	}
 	int Result{ INT_MAX };
 	
-	//이거 반복문으로 줄이면 코드 길이가 반토막날텐데...
+	//이거 반복문으로 줄이면 코드 길이를 반토막 낼 수 있었는데 좀 아쉽네
 	DP[0] = { INT_MAX, Cost[0].G, Cost[0].B };// 마지막에 R 선택
 	for (int i = 1; i < HouseSize; ++i)
 	{
