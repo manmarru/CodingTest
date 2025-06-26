@@ -576,15 +576,6 @@
     <ClCompile Include="Q\17404 RGB 거리 2.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\20040 사이클 게임.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
@@ -595,6 +586,15 @@
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\20040 사이클 게임.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1005 ACM Craft.cpp">
+      <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\27172 수 나누기 게임.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
