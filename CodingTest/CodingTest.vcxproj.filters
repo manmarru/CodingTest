@@ -576,7 +576,7 @@
     <ClCompile Include="Q\17404 RGB 거리 2.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+    <ClCompile Include="Q\1644 소수의 연속합.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
@@ -595,7 +595,7 @@
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\1005 ACM Craft.cpp">
-      <Filter>Solving</Filter>
+      <Filter>Solved\Gold 3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
