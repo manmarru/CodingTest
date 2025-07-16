@@ -597,26 +597,26 @@
     <ClCompile Include="Q\2342 Dance Dance Revolution.cpp">
       <Filter>Solved\Gold 3</Filter>
     </ClCompile>
+    <ClCompile Include="Q\2473 세 용액.cpp">
+      <Filter>Solved\Gold 3</Filter>
+    </ClCompile>
     <ClCompile Include="Q\2623 음악프로그램.cpp">
-      <Filter>Solving</Filter>
+      <Filter>Solved\Gold 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
-      <Filter>Solving</Filter>
+    <ClCompile Include="Q\NitroX_2.cpp">
+      <Filter>Solved\--Competition</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
-      <Filter>Solving</Filter>
+    <ClCompile Include="Q\NitroX_1.cpp">
+      <Filter>Solved\--Competition</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+    <ClCompile Include="Q\9466 텀 프로젝트.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
       <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2473 세 용액.cpp">
-      <Filter>Solved\Gold 3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
