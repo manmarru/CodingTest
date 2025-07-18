@@ -64,6 +64,9 @@
     <Filter Include="Solved\Gold 2">
       <UniqueIdentifier>{7350d79c-7cad-4454-b912-8053afe78ac2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Solved\Level 2">
+      <UniqueIdentifier>{fb87475b-f1cb-4173-819b-9cdebc1cb92d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -609,13 +612,13 @@
     <ClCompile Include="Q\NitroX_1.cpp">
       <Filter>Solved\--Competition</Filter>
     </ClCompile>
+    <ClCompile Include="Q\튜플.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
     <ClCompile Include="Q\9466 텀 프로젝트.cpp">
-      <Filter>Solving</Filter>
+      <Filter>Solved\Gold 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+    <ClCompile Include="Q\11049 행렬 곱셈 순서.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
