@@ -612,13 +612,34 @@
     <ClCompile Include="Q\NitroX_1.cpp">
       <Filter>Solved\--Competition</Filter>
     </ClCompile>
-    <ClCompile Include="Q\튜플.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\9466 텀 프로젝트.cpp">
       <Filter>Solved\Gold 3</Filter>
     </ClCompile>
+    <ClCompile Include="Q\튜플.cpp">
+      <Filter>Solved\Level 2</Filter>
+    </ClCompile>
     <ClCompile Include="Q\11049 행렬 곱셈 순서.cpp">
+      <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (2).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2차원 배열의 합.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
