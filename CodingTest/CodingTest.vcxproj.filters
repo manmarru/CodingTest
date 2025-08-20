@@ -624,10 +624,7 @@
     <ClCompile Include="Q\24060 알고리즘 수업 - 병합 정렬.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\28278 스텍 2.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+    <ClCompile Include="Q\2567 색종이.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
@@ -641,6 +638,9 @@
     </ClCompile>
     <ClCompile Include="Q\18352 특정 거리의 도시 찾기.cpp">
       <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\28278 스텍 2.cpp">
+      <Filter>Solved\Silver 4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
