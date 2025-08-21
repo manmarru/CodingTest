@@ -627,9 +627,6 @@
     <ClCompile Include="Q\2567 색종이.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
@@ -641,6 +638,9 @@
     </ClCompile>
     <ClCompile Include="Q\28278 스텍 2.cpp">
       <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\삼각 달팽이.cpp">
+      <Filter>Solved\Level 2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
