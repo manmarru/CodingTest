@@ -67,6 +67,9 @@
     <Filter Include="Solved\Level 2">
       <UniqueIdentifier>{fb87475b-f1cb-4173-819b-9cdebc1cb92d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Solved\Level 3">
+      <UniqueIdentifier>{a239cf71-4a99-4a50-937c-4c5b1e3e32b4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -624,12 +627,6 @@
     <ClCompile Include="Q\24060 알고리즘 수업 - 병합 정렬.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2567 색종이.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1331 나이트 투어.cpp">
       <Filter>Solved\Silver 4</Filter>
     </ClCompile>
@@ -641,6 +638,39 @@
     </ClCompile>
     <ClCompile Include="Q\삼각 달팽이.cpp">
       <Filter>Solved\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\이중 우선순위 큐.cpp">
+      <Filter>Solved\Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2567 색종이.cpp">
+      <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (2).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (9).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본.cpp">
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
