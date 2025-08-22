@@ -645,12 +645,6 @@
     <ClCompile Include="Q\2567 색종이.cpp">
       <Filter>Later</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (2).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
@@ -670,6 +664,12 @@
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\리코쳇 로봇.cpp">
+      <Filter>Solved\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\프로세스.cpp">
+      <Filter>Solved\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\무인도 여행.cpp">
       <Filter>Solved\Level 2</Filter>
     </ClCompile>
   </ItemGroup>
