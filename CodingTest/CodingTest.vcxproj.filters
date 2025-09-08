@@ -672,12 +672,6 @@
     <ClCompile Include="Q\우박수열 정적분.cpp">
       <Filter>Solved\Level 2</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (2).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
@@ -686,6 +680,12 @@
     </ClCompile>
     <ClCompile Include="Q\단어 변환.cpp">
       <Filter>Solved\Level 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\기술 개발.cpp">
+      <Filter>Solved\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\연속 부분 수열 합의 개수.cpp">
+      <Filter>Solved\Level 2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
