@@ -11,6 +11,10 @@ using namespace std;
 /*
 https://school.programmers.co.kr/learn/courses/30/lessons/42888
 잘 풀었는데 stringstream을 보고 체질이 바뀜
+
+map은 노드를 내려갈 때마다 > 비교 연산을 한다.
+string의 경우 노드를 타고 내려갈 때마다 각 노드에서 string을 순회하게 될 수도 있다는 것.
+따라서 unordered_map을 사용한 판단은 좋다.
 */
 
 vector<string> solution(vector<string> record)
