@@ -5,6 +5,7 @@
 using namespace std;
 
 /*
+https://school.programmers.co.kr/learn/courses/30/lessons/12949
 외적이랑 다른거 알지?
 
 행렬곱의 결과는
