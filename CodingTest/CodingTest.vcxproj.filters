@@ -687,9 +687,6 @@
     <ClCompile Include="Q\오픈채팅방.cpp">
       <Filter>Solved\Level 2</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\행렬의 곱셈.cpp">
       <Filter>Solved\Level 2</Filter>
     </ClCompile>
@@ -701,6 +698,9 @@
     </ClCompile>
     <ClCompile Include="Q\영어 끝말잇기.cpp">
       <Filter>Solved\Level 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\네트워크.cpp">
+      <Filter>Solved\Level 3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
