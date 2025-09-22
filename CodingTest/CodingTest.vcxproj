@@ -148,7 +148,7 @@
     <ClCompile Include="Q\2309 일곱 난쟁이.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+    <ClCompile Include="Q\2468 안전 영역.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">

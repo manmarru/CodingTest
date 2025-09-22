@@ -705,9 +705,6 @@
     <ClCompile Include="Q\000000000 - 복사본.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
@@ -716,6 +713,9 @@
     </ClCompile>
     <ClCompile Include="Q\2309 일곱 난쟁이.cpp">
       <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2468 안전 영역.cpp">
+      <Filter>Solved\Silver 1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
