@@ -705,16 +705,16 @@
     <ClCompile Include="Q\000000000 - 복사본.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2583 영역 구하기.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+    <ClCompile Include="Q\1992 쿼드트리.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\2309 일곱 난쟁이.cpp">
       <Filter>Solved\Bronze1</Filter>
     </ClCompile>
     <ClCompile Include="Q\2468 안전 영역.cpp">
+      <Filter>Solved\Silver 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2583 영역 구하기.cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
   </ItemGroup>
