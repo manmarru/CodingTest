@@ -702,9 +702,6 @@
     <ClCompile Include="Q\네트워크.cpp">
       <Filter>Solved\Level 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2309 일곱 난쟁이.cpp">
       <Filter>Solved\Bronze1</Filter>
     </ClCompile>
@@ -716,6 +713,33 @@
     </ClCompile>
     <ClCompile Include="Q\1992 쿼드트리.cpp">
       <Filter>Solved\Silver 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2852 NBA 농구.cpp">
+      <Filter>Solved\Silver 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (2).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (5).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (6).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\2636 치즈.cpp">
+      <Filter>Solved\Gold 4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
