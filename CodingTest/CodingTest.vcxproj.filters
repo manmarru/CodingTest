@@ -717,10 +717,7 @@
     <ClCompile Include="Q\2852 NBA 농구.cpp">
       <Filter>Solved\Silver 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1068 트리.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+    <ClCompile Include="Q\1325 효율적인 해킹.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
@@ -740,6 +737,9 @@
     </ClCompile>
     <ClCompile Include="Q\2636 치즈.cpp">
       <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\1068 트리.cpp">
+      <Filter>Solved\Gold 5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
