@@ -720,9 +720,6 @@
     <ClCompile Include="Q\16234 인구 이동.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (7).cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
       <Filter>Solving</Filter>
     </ClCompile>
@@ -740,6 +737,9 @@
     </ClCompile>
     <ClCompile Include="Q\2589 보물섬.cpp">
       <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\4179 불!.cpp">
+      <Filter>Solved\Gold 3</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
