@@ -6,7 +6,6 @@
 /*
 https://www.acmicpc.net/problem/16234
 
-왼쪽이나 아래로만 파생하면 히스토리 체크도 필요 없다.
 */
 
 const int dY[4]{ -1, 1, 0, 0 };

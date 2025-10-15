@@ -717,10 +717,7 @@
     <ClCompile Include="Q\2852 NBA 농구.cpp">
       <Filter>Solved\Silver 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\16234 인구 이동.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (8).cpp">
+    <ClCompile Include="Q\12869 뮤탈리스크.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\2636 치즈.cpp">
@@ -740,6 +737,24 @@
     </ClCompile>
     <ClCompile Include="Q\4179 불!.cpp">
       <Filter>Solved\Gold 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\16234 인구 이동.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\15684 사다리 조작.cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (2).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
+      <Filter>Solving</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\16637 괄호 추가하기.cpp">
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
