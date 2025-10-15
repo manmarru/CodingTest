@@ -1,60 +1,70 @@
 #include "pch.h"
 #include "Header.h"
-#include <vector>
 #include <string>
+#include <vector>
+#include <sstream>
 
-long long int Oper(int front, int back, char oper)
+/*
+https://www.acmicpc.net/problem/16637
+정답이 음수일 수도 있으니까 Result 초기값을 0으로 하면 안된다. (max로 비교하니깐)
+각 괄호에는 무조건 한 개의 연산만 넣을 수 있으니까
+괄호를 직접 추가할 필요 없이 연산 순서만 잘 바꾸면 된다.
+
+*/
+
+long long int Result{ -99999 };
+int Size;
+vector<int> Nums;
+vector<char> Opers;
+
+long long int Oper(int front, int back, char op)
 {
-	switch (oper)
+	switch (op)
 	{
 	case '+':
-	{
 		return front + back;
-		break;
-	}
 	case '-':
-	{
 		return front - back;
-		break;
-	}
 	case '*':
-	{
 		return front * back;
-		break;
+	default:
+		return 0;
 	}
-	}
-	cout << "OPER ERROR! : " << oper << endl;
-	return -1;
 }
 
-int DFS(int Index)
+void DFS(int CurrIndex, long long int StackNum)
 {
+	if (CurrIndex == Size)
+	{
+		Result = max(Result, StackNum);
+		return;
+	}
 
+	DFS(CurrIndex + 1, Oper(StackNum, Nums[CurrIndex + 1], Opers[CurrIndex]));
 
+	if (CurrIndex == Size - 1)
+		return;
 
-	return 0;
+	DFS(CurrIndex + 2, Oper(StackNum, Oper(Nums[CurrIndex + 1], Nums[CurrIndex + 2], Opers[CurrIndex + 1]), Opers[CurrIndex]));
+
+	return;
 }
 
 void Solve(ifstream* _pLoadStream)
 {
-	int Size;
 	string Input;
 	CIN >> Size >> Input;
-
-	vector<int> Nums(Size / 2 + 1);
-	vector<char> Opers(Size / 2);
-	for (int i = 0; i < Size / 2; ++i)
+	int iInput;
+	char szInput;
+	stringstream ss(Input);
+	while (ss >> iInput >> szInput)
 	{
-		Nums[i] = Input[i] - '0';
-		Opers[i] = Input[i + 1];
+		Nums.push_back(iInput);
+		Opers.push_back(szInput);
 	}
+	Nums.push_back(iInput);
 
-	int Answer{ 0 };
-
-	for (int i = 0; i < Opers.size(); ++i)
-	{
-		Answer = max(Answer, DFS(i));
-	}
-
-	cout << Answer;
+	Size /= 2;
+	DFS(0, Nums[0]);
+	cout << Result;
 }
