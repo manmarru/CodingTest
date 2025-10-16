@@ -70,6 +70,9 @@
     <Filter Include="Solved\Level 3">
       <UniqueIdentifier>{a239cf71-4a99-4a50-937c-4c5b1e3e32b4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Solved\Pletinum 5">
+      <UniqueIdentifier>{020b92f7-304c-4474-8e3c-d24a90b59252}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -741,10 +744,7 @@
     <ClCompile Include="Q\16234 인구 이동.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\13913 숨바꼭질 4.cpp">
-      <Filter>Solving</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본 (3).cpp">
+    <ClCompile Include="Q\17071 숨바꼭질5.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본 (4).cpp">
@@ -755,6 +755,9 @@
     </ClCompile>
     <ClCompile Include="Q\16637 괄호 추가하기.cpp">
       <Filter>Solved\Gold 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\13913 숨바꼭질 4.cpp">
+      <Filter>Solved\Gold 4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

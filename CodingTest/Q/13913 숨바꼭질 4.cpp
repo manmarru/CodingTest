@@ -14,6 +14,7 @@ stl에서 swap을 포인터만 교환하는 방식으로 오버로딩 되어 있다.
 
 이거 마음에 안 들면 queue에 넣는 값을 struct나 pair같은걸로 해서
 데이터에 횟수를 포함시키면 된다.
+또는 Destination의 size만큼만 for 루프를 돌리면 딱 원소갯수만큼만 빠진다.
 */
 
 vector<int> History(100001, -1);
