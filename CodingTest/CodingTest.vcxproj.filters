@@ -168,9 +168,6 @@
     <ClCompile Include="Q\1018 체스판 다시 칠하기.cpp">
       <Filter>Solved\Silver 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1074 Z.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1260 DFS와 BFS.cpp">
       <Filter>Solved\Silver 2</Filter>
     </ClCompile>
@@ -206,9 +203,6 @@
     </ClCompile>
     <ClCompile Include="Q\1929 소수 구하기.cpp">
       <Filter>Solved\Silver 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1931 회의실 배정.cpp">
-      <Filter>Solved\Gold 5</Filter>
     </ClCompile>
     <ClCompile Include="Q\1966 프린터 큐.cpp">
       <Filter>Solved\Silver 3</Filter>
@@ -264,29 +258,14 @@
     <ClCompile Include="Q\5235 Even Sum More Than Odd Sum.cpp">
       <Filter>Solved\Bronze3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\5430 AC.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
     <ClCompile Include="Q\5525 IOIOI.cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
     <ClCompile Include="Q\6064 카잉 달력.cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\7569 토마토.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\7576 토마토.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\7662 이중 우선순위 큐.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\9012 괄호.cpp">
       <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\9019 DSLR.cpp">
-      <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\9095 1, 2, 3 더하기.cpp">
       <Filter>Solved\Silver 3</Filter>
@@ -296,9 +275,6 @@
     </ClCompile>
     <ClCompile Include="Q\9461 파도반 수열.cpp">
       <Filter>Solved\Silver 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\10026 적록색약.cpp">
-      <Filter>Solved\Gold 5</Filter>
     </ClCompile>
     <ClCompile Include="Q\10156 과자.cpp">
       <Filter>Solved\Bronze4</Filter>
@@ -354,9 +330,6 @@
     <ClCompile Include="Q\11866 요세푸스 문제 0.cpp">
       <Filter>Solved\Silver 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\14500 테트로미노.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\14940 쉬운 최단거리.cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
@@ -371,9 +344,6 @@
     </ClCompile>
     <ClCompile Include="Q\15829 Hashing.cpp">
       <Filter>Solved\Bronze2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\16928 뱀과 사다리 게임.cpp">
-      <Filter>Solved\Gold 5</Filter>
     </ClCompile>
     <ClCompile Include="Q\17219 비밀번호 찾기.cpp">
       <Filter>Solved\Silver 4</Filter>
@@ -423,51 +393,6 @@
     <ClCompile Include="Q\11660 구간 합 구하기 5.cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1916 최소비용 구하기.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2096 내려가기.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\12865 평범한 배낭.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\9251 LCS.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\13549 숨바꼭질 3.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\15686 치킨 배달.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\17070 파이프 옮기기.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1043 거짓말.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1504 특정한 최단 경로.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1753 최단경로.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1967 트리의 지름.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1987 알파벳.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\5639 이진 탐색 트리.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\9663 N-Queen.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\9935 문자열 폭발.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\33632 2교시_체육.cpp">
       <Filter>Later</Filter>
     </ClCompile>
@@ -477,44 +402,14 @@
     <ClCompile Include="Q\17362 수학은 체육과목 입니다 2.cpp">
       <Filter>Solved\Bronze4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2448 별 찍기.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\16497 대출 요청.cpp">
       <Filter>Solved\Bronze2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\10840 행렬 제곱.cpp">
-      <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\1333 부재중 전화.cpp">
       <Filter>Solved\Bronze1</Filter>
     </ClCompile>
     <ClCompile Include="Q\B 주사위 피라미드.cpp">
       <Filter>Solved\--Competition</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11054 가장 긴 바이토닉 부분 수열.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11404 플로이드.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\12851 숨바꼭질 2.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\14502 연구소.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\13172 Σ.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\14938 서강그라운드.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\17144 미세먼지 안녕!.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\30805 사전 순 최대 공통 부분 수열.cpp">
-      <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\1238 파티.cpp">
       <Filter>Solved\Gold 3</Filter>
@@ -546,50 +441,11 @@
     <ClCompile Include="Q\11444 피보나치 수.cpp">
       <Filter>Solved\Gold 2</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2166 다각형의 면적.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2467 용액.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\15681 트리와 쿼리.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1106 호텔.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1197 최소 스패닝 트리.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1647 도시 분할 계획.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\14626 ISBN.cpp">
       <Filter>Solved\Bronze1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1806 부분합.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\33664 현실적인 생일 축하 방안.cpp">
       <Filter>Later</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2239 스도쿠.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\9252 LCS 2.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\10942 팰린드롬!.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\17404 RGB 거리 2.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\20040 사이클 게임.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\27172 수 나누기 게임.cpp">
-      <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\1005 ACM Craft.cpp">
       <Filter>Solved\Gold 3</Filter>
@@ -723,29 +579,11 @@
     <ClCompile Include="Q\12869 뮤탈리스크.cpp">
       <Filter>Solving</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2636 치즈.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1068 트리.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1325 효율적인 해킹.cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\17298 오큰수.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2589 보물섬.cpp">
-      <Filter>Solved\Gold 5</Filter>
-    </ClCompile>
     <ClCompile Include="Q\4179 불!.cpp">
       <Filter>Solved\Gold 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\16234 인구 이동.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\14497 주난의 난.cpp">
-      <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\15684 사다리 조작.cpp">
       <Filter>Solved\Gold 3</Filter>
@@ -753,11 +591,182 @@
     <ClCompile Include="Q\16637 괄호 추가하기.cpp">
       <Filter>Solved\Gold 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\13913 숨바꼭질 4.cpp">
-      <Filter>Solved\Gold 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\17071 숨바꼭질 5.cpp">
       <Filter>Solved\Pletinum 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\1043 거짓말.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\1106 호텔.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\1197 최소 스패닝 트리.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\1504 특정한 최단 경로.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\1647 도시 분할 계획.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\1753 최단경로.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\1806 부분합.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\1967 트리의 지름.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\1987 알파벳.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\2239 스도쿠.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\2448 별 찍기.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\2636 치즈.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\5639 이진 탐색 트리.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\7662 이중 우선순위 큐.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\9019 DSLR.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\9252 LCS 2.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\9663 N-Queen.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\9935 문자열 폭발.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\10840 행렬 제곱.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\10942 팰린드롬!.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\11054 가장 긴 바이토닉 부분 수열.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\11404 플로이드.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\12851 숨바꼭질 2.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\13172 Σ.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\13913 숨바꼭질 4.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\14497 주난의 난.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\14500 테트로미노.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\14502 연구소.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\14938 서강그라운드.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\16234 인구 이동.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\17144 미세먼지 안녕!.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\17298 오큰수.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\17404 RGB 거리 2.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\20040 사이클 게임.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\27172 수 나누기 게임.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\30805 사전 순 최대 공통 부분 수열.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\000G4.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\1068 트리.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\1074 Z.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\1916 최소비용 구하기.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\1931 회의실 배정.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\2096 내려가기.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\2166 다각형의 면적.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\2467 용액.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\2589 보물섬.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\5430 AC.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\7569 토마토.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\7576 토마토.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\9251 LCS.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\10026 적록색약.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\12865 평범한 배낭.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\13549 숨바꼭질 3.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\15681 트리와 쿼리.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\15686 치킨 배달.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\16928 뱀과 사다리 게임.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\17070 파이프 옮기기.cpp">
+      <Filter>Solved\Gold 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 5\000000000G5.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\3197 백조의 호수.cpp">
+      <Filter>Solving</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
