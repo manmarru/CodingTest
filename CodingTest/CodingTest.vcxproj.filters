@@ -49,9 +49,6 @@
     <Filter Include="Solved\Silver 1">
       <UniqueIdentifier>{00ff5efd-98c2-4d17-bb8a-1a6c2ef0e6b1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Solved\Silver 2">
-      <UniqueIdentifier>{18768965-5a07-43da-834d-a0c279edfe81}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Solved\Silver 3">
       <UniqueIdentifier>{2f64d8ec-54a7-4410-8c8c-a40d5c33520c}</UniqueIdentifier>
     </Filter>
@@ -72,6 +69,9 @@
     </Filter>
     <Filter Include="Solved\Pletinum 5">
       <UniqueIdentifier>{020b92f7-304c-4474-8e3c-d24a90b59252}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Solved\Silver 2">
+      <UniqueIdentifier>{bea79a1d-ff8b-46a4-9157-d642e08dddab}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -156,44 +156,23 @@
     <ClCompile Include="Q\13301 타일 장식물.cpp">
       <Filter>Solved\Silver 5</Filter>
     </ClCompile>
-    <ClCompile Include="Q\15663N과 M%289%29.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1003 피보나치 함수.cpp">
       <Filter>Solved\Silver 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1012 유기농 배추.cpp">
-      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
     <ClCompile Include="Q\1018 체스판 다시 칠하기.cpp">
       <Filter>Solved\Silver 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1260 DFS와 BFS.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1463 1로 만들기.cpp">
       <Filter>Solved\Silver 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1541 잃어버린 괄호.cpp">
-      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
     <ClCompile Include="Q\1620 나는야 포켓몬 마스터 이다솜.cpp">
       <Filter>Solved\Silver 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1654 랜선 자르기.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1764 듣보잡.cpp">
       <Filter>Solved\Silver 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1874 스택 수열.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1920 수 찾기.cpp">
       <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1927 최소 힙.cpp">
-      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
     <ClCompile Include="Q\1929 소수 구하기.cpp">
       <Filter>Solved\Silver 3</Filter>
@@ -201,17 +180,8 @@
     <ClCompile Include="Q\1966 프린터 큐.cpp">
       <Filter>Solved\Silver 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2108 통계학.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2164 카드2.cpp">
       <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\15666 N과 M%2812%29.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\16953 A-B.cpp">
-      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
     <ClCompile Include="Q\2231 분해합.cpp">
       <Filter>Solved\Bronze2</Filter>
@@ -225,14 +195,8 @@
     <ClCompile Include="Q\2606 바이러스.cpp">
       <Filter>Solved\Silver 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2630 색종이 만들기.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2798 블랙잭.cpp">
       <Filter>Solved\Bronze2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2805 나무 자르기.cpp">
-      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
     <ClCompile Include="Q\2839 설탐 배달.cpp">
       <Filter>Solved\Silver 4</Filter>
@@ -279,23 +243,11 @@
     <ClCompile Include="Q\11047 동전 0.cpp">
       <Filter>Solved\Silver 4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\11053 가장 긴 증가하는 부분 수열.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11279 최대 힙.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
     <ClCompile Include="Q\11399 ATM.cpp">
       <Filter>Solved\Silver 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\11659 구간 합 구하기 4.cpp">
       <Filter>Solved\Silver 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11724 연결 요소의 개수.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11725 트리의 부모 찾기.cpp">
-      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
     <ClCompile Include="Q\11726 2 X n 타일링.cpp">
       <Filter>Solved\Silver 3</Filter>
@@ -324,23 +276,11 @@
     <ClCompile Include="Q\17626 four Squares.cpp">
       <Filter>Solved\Silver 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\18111 마인크래프트.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\18870 좌표 압축.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\21736 헌내기는 친구가 필요해.cpp">
-      <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
     <ClCompile Include="Q\30156 Malvika is peculiar about color of balloons.cpp">
       <Filter>Solved\Bronze4</Filter>
     </ClCompile>
     <ClCompile Include="Q\30802 웰컴 키트.cpp">
       <Filter>Solved\Bronze3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\30804 과일 탕후루.cpp">
-      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
     <ClCompile Include="Q\31450 Everyone is a winner.cpp">
       <Filter>Solved\Bronze5</Filter>
@@ -443,9 +383,6 @@
     </ClCompile>
     <ClCompile Include="Q\1331 나이트 투어.cpp">
       <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\18352 특정 거리의 도시 찾기.cpp">
-      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
     <ClCompile Include="Q\28278 스텍 2.cpp">
       <Filter>Solved\Silver 4</Filter>
@@ -785,6 +722,75 @@
     </ClCompile>
     <ClCompile Include="Q\Silver 1\9934 완전 이진 트리.cpp">
       <Filter>Solved\Silver 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\18111 마인크래프트.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\18352 특정 거리의 도시 찾기.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\18870 좌표 압축.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\21736 헌내기는 친구가 필요해.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\30804 과일 탕후루.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\1012 유기농 배추.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\1260 DFS와 BFS.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\1541 잃어버린 괄호.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\1654 랜선 자르기.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\1874 스택 수열.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\1927 최소 힙.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\2108 통계학.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\2630 색종이 만들기.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\2805 나무 자르기.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\11053 가장 긴 증가하는 부분 수열.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\11279 최대 힙.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\11724 연결 요소의 개수.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\11725 트리의 부모 찾기.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\15663N과 M(9).cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\15666 N과 M(12).cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\16953 A-B.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\000000000S2.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\000000000S2 - 복사본.cpp">
+      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
