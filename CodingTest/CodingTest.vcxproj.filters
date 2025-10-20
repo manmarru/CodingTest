@@ -783,7 +783,7 @@
     <ClCompile Include="Q\Silver 1\000000000S1 - 복사본 (4).cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\Silver 1\000000000S1 - 복사본 (5).cpp">
+    <ClCompile Include="Q\Silver 1\9934 완전 이진 트리.cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
   </ItemGroup>
