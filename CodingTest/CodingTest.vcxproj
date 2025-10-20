@@ -340,7 +340,7 @@
     <ClCompile Include="Q\Gold 5\9251 LCS.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Q\Silver 1\000000000S1 - 복사본 (2).cpp">
+    <ClCompile Include="Q\Silver 1\1189  컴백홈.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Q\Silver 1\000000000S1 - 복사본 (3).cpp">
