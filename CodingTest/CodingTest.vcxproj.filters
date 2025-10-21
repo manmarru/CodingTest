@@ -73,6 +73,9 @@
     <Filter Include="Solved\Silver 2">
       <UniqueIdentifier>{bea79a1d-ff8b-46a4-9157-d642e08dddab}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Solved\Gold 1">
+      <UniqueIdentifier>{20078abc-ce4c-4d48-9907-f408e6509650}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -791,6 +794,21 @@
     </ClCompile>
     <ClCompile Include="Q\Silver 2\14620 꽃길.cpp">
       <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\000G4 - 복사본.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\19942 다이어트.cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\000G4 - 복사본 (3).cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\000G4 - 복사본 (4).cpp">
+      <Filter>Solved\Gold 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 1\00G1.cpp">
+      <Filter>Solved\Gold 1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
