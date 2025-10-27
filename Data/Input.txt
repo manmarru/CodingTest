@@ -1,6 +1,7 @@
-3 30 1
-10 10 10
+QWERTYTREWQWERT
 
 
 ´ä
-4
+5
+
+tr ewqwert
