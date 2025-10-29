@@ -669,7 +669,7 @@
     <ClCompile Include="Q\Silver 1\000000000S1 - 복사본 (3).cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\Silver 1\000000000S1 - 복사본 (4).cpp">
+    <ClCompile Include="Q\Silver 1\12101 1, 2, 3 더하기 2.cpp">
       <Filter>Solved\Silver 1</Filter>
     </ClCompile>
     <ClCompile Include="Q\Silver 1\9934 완전 이진 트리.cpp">
@@ -743,9 +743,6 @@
     </ClCompile>
     <ClCompile Include="Q\Silver 2\14620 꽃길.cpp">
       <Filter>Solved\Silver 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\Gold 4\16210 DSHS Bank.cpp">
-      <Filter>Solved\Gold 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\Gold 4\19942 다이어트.cpp">
       <Filter>Solved\Gold 4</Filter>
@@ -854,6 +851,9 @@
     </ClCompile>
     <ClCompile Include="Q\000000000 - 복사본.cpp">
       <Filter>Solved\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 4\16210 DSHS Bank.cpp">
+      <Filter>Later</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
