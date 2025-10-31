@@ -831,7 +831,7 @@
     <ClCompile Include="Q\Gold 3\000G3 - 복사본 (4).cpp">
       <Filter>Solved\Gold 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\Gold 3\000G3 - 복사본 (5).cpp">
+    <ClCompile Include="Q\Gold 3\2109 순회 강연.cpp">
       <Filter>Solved\Gold 3</Filter>
     </ClCompile>
     <ClCompile Include="Q\Gold 3\17471 개리맨더링.cpp">
