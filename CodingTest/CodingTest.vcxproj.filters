@@ -312,15 +312,6 @@
     <ClCompile Include="Q\B 주사위 피라미드.cpp">
       <Filter>Solved\--Competition</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1167 트리의 지름.cpp">
-      <Filter>Solved\Gold 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1918 후위 표기식.cpp">
-      <Filter>Solved\Gold 2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11444 피보나치 수.cpp">
-      <Filter>Solved\Gold 2</Filter>
-    </ClCompile>
     <ClCompile Include="Q\14626 ISBN.cpp">
       <Filter>Solved\Bronze1</Filter>
     </ClCompile>
@@ -338,9 +329,6 @@
     </ClCompile>
     <ClCompile Include="Q\11049 행렬 곱셈 순서.cpp">
       <Filter>Later</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\24060 알고리즘 수업 - 병합 정렬.cpp">
-      <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\1331 나이트 투어.cpp">
       <Filter>Solved\Silver 4</Filter>
@@ -419,9 +407,6 @@
     </ClCompile>
     <ClCompile Include="Q\2852 NBA 농구.cpp">
       <Filter>Solved\Silver 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\12869 뮤탈리스크.cpp">
-      <Filter>Solving</Filter>
     </ClCompile>
     <ClCompile Include="Q\17071 숨바꼭질 5.cpp">
       <Filter>Solved\Pletinum 5</Filter>
@@ -849,11 +834,41 @@
     <ClCompile Include="Q\Gold 5\33678 로마의 휴일.cpp">
       <Filter>Solved\Gold 5</Filter>
     </ClCompile>
-    <ClCompile Include="Q\000000000 - 복사본.cpp">
+    <ClCompile Include="Q\Test.cpp">
       <Filter>Solved\Test</Filter>
     </ClCompile>
     <ClCompile Include="Q\Gold 4\16210 DSHS Bank.cpp">
       <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\12869 뮤탈리스크.cpp">
+      <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\24060 알고리즘 수업 - 병합 정렬.cpp">
+      <Filter>Later</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 2\1167 트리의 지름.cpp">
+      <Filter>Solved\Gold 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 2\1918 후위 표기식.cpp">
+      <Filter>Solved\Gold 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 2\11444 피보나치 수.cpp">
+      <Filter>Solved\Gold 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 2\00G2.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 2\00G2 - 복사본 (2).cpp">
+      <Filter>Solved\Gold 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 2\00G2 - 복사본 (3).cpp">
+      <Filter>Solved\Gold 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 2\00G2 - 복사본 (4).cpp">
+      <Filter>Solved\Gold 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 2\1781 컵라면.cpp">
+      <Filter>Solved\Gold 2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
