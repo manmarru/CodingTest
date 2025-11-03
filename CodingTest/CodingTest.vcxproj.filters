@@ -156,38 +156,20 @@
     <ClCompile Include="Q\1181 단어정렬.cpp">
       <Filter>Solved\Silver 5</Filter>
     </ClCompile>
-    <ClCompile Include="Q\18110 solved.ac.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\13301 타일 장식물.cpp">
       <Filter>Solved\Silver 5</Filter>
     </ClCompile>
     <ClCompile Include="Q\1003 피보나치 함수.cpp">
       <Filter>Solved\Silver 3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\1018 체스판 다시 칠하기.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\1463 1로 만들기.cpp">
       <Filter>Solved\Silver 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1620 나는야 포켓몬 마스터 이다솜.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1764 듣보잡.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1920 수 찾기.cpp">
-      <Filter>Solved\Silver 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\1929 소수 구하기.cpp">
       <Filter>Solved\Silver 3</Filter>
     </ClCompile>
     <ClCompile Include="Q\1966 프린터 큐.cpp">
       <Filter>Solved\Silver 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2164 카드2.cpp">
-      <Filter>Solved\Silver 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\2231 분해합.cpp">
       <Filter>Solved\Bronze2</Filter>
@@ -204,20 +186,11 @@
     <ClCompile Include="Q\2798 블랙잭.cpp">
       <Filter>Solved\Bronze2</Filter>
     </ClCompile>
-    <ClCompile Include="Q\2839 설탐 배달.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\4153 직각삼각형.cpp">
       <Filter>Solved\Bronze3</Filter>
     </ClCompile>
-    <ClCompile Include="Q\4949 균형잡힌 세상.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\5235 Even Sum More Than Odd Sum.cpp">
       <Filter>Solved\Bronze3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\9012 괄호.cpp">
-      <Filter>Solved\Silver 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\9095 1, 2, 3 더하기.cpp">
       <Filter>Solved\Silver 3</Filter>
@@ -231,26 +204,8 @@
     <ClCompile Include="Q\10156 과자.cpp">
       <Filter>Solved\Bronze4</Filter>
     </ClCompile>
-    <ClCompile Include="Q\10773 제로.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\10816 숫자 카드 2.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\10828 스택.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\10845 큐.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
     <ClCompile Include="Q\10989 수 정렬하기 3.cpp">
       <Filter>Solved\Bronze1</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11047 동전 0.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11399 ATM.cpp">
-      <Filter>Solved\Silver 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\11659 구간 합 구하기 4.cpp">
       <Filter>Solved\Silver 3</Filter>
@@ -260,9 +215,6 @@
     </ClCompile>
     <ClCompile Include="Q\11727 2 X n 타일링 2.cpp">
       <Filter>Solved\Silver 3</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11866 요세푸스 문제 0.cpp">
-      <Filter>Solved\Silver 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\15650 N과 M %282%29.cpp">
       <Filter>Solved\Silver 3</Filter>
@@ -275,9 +227,6 @@
     </ClCompile>
     <ClCompile Include="Q\15829 Hashing.cpp">
       <Filter>Solved\Bronze2</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\17219 비밀번호 찾기.cpp">
-      <Filter>Solved\Silver 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\17626 four Squares.cpp">
       <Filter>Solved\Silver 3</Filter>
@@ -329,12 +278,6 @@
     </ClCompile>
     <ClCompile Include="Q\11049 행렬 곱셈 순서.cpp">
       <Filter>Later</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1331 나이트 투어.cpp">
-      <Filter>Solved\Silver 4</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\28278 스텍 2.cpp">
-      <Filter>Solved\Silver 4</Filter>
     </ClCompile>
     <ClCompile Include="Q\삼각 달팽이.cpp">
       <Filter>Solved\Level 2</Filter>
@@ -869,6 +812,72 @@
     </ClCompile>
     <ClCompile Include="Q\Gold 2\1781 컵라면.cpp">
       <Filter>Solved\Gold 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\1018 체스판 다시 칠하기.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\1331 나이트 투어.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\1620 나는야 포켓몬 마스터 이다솜.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\1764 듣보잡.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\1920 수 찾기.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\2164 카드2.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\2839 설탐 배달.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\4949 균형잡힌 세상.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\9012 괄호.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\10773 제로.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\10816 숫자 카드 2.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\10828 스택.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\10845 큐.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\11047 동전 0.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\11399 ATM.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\11866 요세푸스 문제 0.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\17219 비밀번호 찾기.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\18110 solved.ac.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\28278 스텍 2.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\00s4 - 복사본 (2).cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\00s4 - 복사본.cpp">
+      <Filter>Solved\Silver 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 4\00s4.cpp">
+      <Filter>Main</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
