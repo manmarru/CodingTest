@@ -295,7 +295,7 @@
     <ClCompile Include="Q\Gold 1\1509 팰린드롬 분할.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Q\Gold 1\00G1 - 복사본 (3).cpp">
+    <ClCompile Include="Q\Gold 1\1700 멀티탭 스케줄링.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Q\Gold 1\1285 동전 뒤집기.cpp">
