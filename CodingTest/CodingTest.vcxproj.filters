@@ -615,7 +615,7 @@
     <ClCompile Include="Q\Silver 2\16953 A-B.cpp">
       <Filter>Solved\Silver 2</Filter>
     </ClCompile>
-    <ClCompile Include="Q\Silver 2\000000000S2.cpp">
+    <ClCompile Include="Q\Silver 2\00S2.cpp">
       <Filter>Main</Filter>
     </ClCompile>
     <ClCompile Include="Q\Silver 2\14620 꽃길.cpp">
@@ -893,6 +893,12 @@
     </ClCompile>
     <ClCompile Include="Q\Silver 3\00S3 - 복사본 (3).cpp">
       <Filter>Solved\Silver 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\1912 연속합.cpp">
+      <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 2\00S2 - 복사본.cpp">
+      <Filter>Solved\Silver 2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
