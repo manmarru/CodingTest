@@ -129,36 +129,6 @@
     <ClCompile Include="Q\1259 팰린드롬수.cpp">
       <Filter>Solved\Bronze1</Filter>
     </ClCompile>
-    <ClCompile Include="Q\11723 집합.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11651 좌표 정렬하기 2.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\11650 좌표 정렬하기.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\10814 나이순 정렬.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\7568 덩치.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\2751 수 정렬하기 2.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1676 팩토리얼 0의 갯수.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1436 영화감독 숌.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\1181 단어정렬.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\13301 타일 장식물.cpp">
-      <Filter>Solved\Silver 5</Filter>
-    </ClCompile>
     <ClCompile Include="Q\2231 분해합.cpp">
       <Filter>Solved\Bronze2</Filter>
     </ClCompile>
@@ -191,9 +161,6 @@
     </ClCompile>
     <ClCompile Include="Q\31450 Everyone is a winner.cpp">
       <Filter>Solved\Bronze5</Filter>
-    </ClCompile>
-    <ClCompile Include="Q\25206 너의 평점은.cpp">
-      <Filter>Solved\Silver 5</Filter>
     </ClCompile>
     <ClCompile Include="Q\33632 2교시_체육.cpp">
       <Filter>Later</Filter>
@@ -899,6 +866,54 @@
     </ClCompile>
     <ClCompile Include="Q\Silver 2\00S2 - 복사본.cpp">
       <Filter>Solved\Silver 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\1181 단어정렬.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\1436 영화감독 숌.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\1676 팩토리얼 0의 갯수.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\2751 수 정렬하기 2.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\7568 덩치.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\10814 나이순 정렬.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\11650 좌표 정렬하기.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\11651 좌표 정렬하기 2.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\11723 집합.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\13301 타일 장식물.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\25206 너의 평점은.cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\00S5.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\00S5 - 복사본 (2).cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\00S5 - 복사본 (3).cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\00S5 - 복사본 (4).cpp">
+      <Filter>Solved\Silver 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Silver 5\1427 소트인사이드.cpp">
+      <Filter>Solved\Silver 5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

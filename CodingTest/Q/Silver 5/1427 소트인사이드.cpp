@@ -1,6 +1,5 @@
 #include "pch.h"
 #include "Header.h"
-#include <vector>
 #include <list>
 
 void Solve(ifstream* _pLoadStream)
