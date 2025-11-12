@@ -909,7 +909,7 @@
     <ClCompile Include="Q\Silver 5\00S5 - 복사본 (3).cpp">
       <Filter>Solved\Silver 5</Filter>
     </ClCompile>
-    <ClCompile Include="Q\Silver 5\00S5 - 복사본 (4).cpp">
+    <ClCompile Include="Q\Silver 5\10815 숫자 카드.cpp">
       <Filter>Solved\Silver 5</Filter>
     </ClCompile>
     <ClCompile Include="Q\Silver 5\1427 소트인사이드.cpp">
