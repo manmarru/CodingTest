@@ -915,6 +915,12 @@
     <ClCompile Include="Q\Silver 5\1427 소트인사이드.cpp">
       <Filter>Solved\Silver 5</Filter>
     </ClCompile>
+    <ClCompile Include="Q\Gold 1\12100 2048 (Easy).cpp">
+      <Filter>Solved\Gold 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Q\Gold 1\00G1 - 복사본.cpp">
+      <Filter>Solved\Gold 1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
