@@ -148,7 +148,9 @@
     <ClCompile Include="Q\Gold 1\00G1 - 복사본.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Q\Gold 1\12100 2048 (Easy).cpp" />
+    <ClCompile Include="Q\Gold 1\12100 2048 (Easy).cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="Q\Silver 2\1912 연속합.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
