@@ -930,6 +930,9 @@
     <ClCompile Include="Q\Gold 4\17406 배열 돌리기 4.cpp">
       <Filter>Solved\Gold 4</Filter>
     </ClCompile>
+    <ClCompile Include="Q\35506 Good Bye, 별 찍기!.cpp">
+      <Filter>Solved\Bronze1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
